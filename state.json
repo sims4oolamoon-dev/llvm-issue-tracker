@@ -262,7 +262,7 @@
         "anshithayeruva",
         "leogarci42"
       ],
-      "notified_stale": false,
+      "notified_stale": true,
       "prs": {
         "237223": "MERGED",
         "237561": "MERGED",
@@ -304,7 +304,7 @@
       "assignees": [
         "Wael-06"
       ],
-      "notified_stale": false,
+      "notified_stale": true,
       "prs": {}
     },
     "236439": {
@@ -352,7 +352,7 @@
       "assignees": [
         "anjenner"
       ],
-      "notified_stale": false,
+      "notified_stale": true,
       "prs": {}
     },
     "236469": {
@@ -510,5 +510,5 @@
       "prs": {}
     }
   },
-  "last_update_id": 0
+  "last_update_id": 76116574
 }
