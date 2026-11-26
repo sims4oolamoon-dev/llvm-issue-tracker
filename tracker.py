@@ -149,7 +149,17 @@ def matches_tags(issue: dict, tags: list[str]) -> bool:
     issue_labels = {lbl["name"].lower() for lbl in issue["labels"]["nodes"]}
     return any(t.lower() in issue_labels for t in tags)
 
-
+def is_claimed(issue: dict) -> bool:
+    if issue["assignees"]["nodes"]:
+        return True
+    if any(CLAIM_PATTERN.search(c["bodyText"]) for c in issue["comments"]["nodes"]):
+        return True
+    for item in issue["timelineItems"]["nodes"]:
+        src = item.get("source")
+        if src and src.get("state") == "OPEN":
+            return True
+    return False
+    
 def process_commands(state: dict, issues: list[dict]) -> None:
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/getUpdates"
     params = {"offset": state["last_update_id"] + 1, "timeout": 5}
@@ -226,13 +236,13 @@ def process_commands(state: dict, issues: list[dict]) -> None:
         elif cmd == "/list":
             matching = [
                 i for i in issues
-                if not i["assignees"]["nodes"] and matches_tags(i, cfg["tags"])
+                if not is_claimed(i) and matches_tags(i, cfg["tags"])
             ][:5]
             if not matching:
-                send_telegram("No unassigned open issues match your current filters right now.")
+                send_telegram("No unclaimed open issues match your current filters right now.")
             else:
                 for issue in matching:
-                    send_telegram(format_issue("📌 Open & Unassigned", issue))
+                    send_telegram(format_issue("📌 Open & Unclaimed", issue))
 
         else:
             send_telegram("Unknown command. Send <code>/help</code> to see available commands.")
