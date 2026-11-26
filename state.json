@@ -187,7 +187,7 @@
       "assignees": [],
       "comment_claimed_by": null,
       "created_at": "2026-03-09T09:44:11Z",
-      "days_idle": 0,
+      "days_idle": 1,
       "labels": [
         "ClangIR"
       ],
@@ -421,7 +421,7 @@
       ],
       "comment_claimed_by": "sipher-01",
       "created_at": "2026-05-02T15:29:31Z",
-      "days_idle": 97,
+      "days_idle": 98,
       "labels": [
         "backend:X86",
         "llvm:SelectionDAG"
@@ -775,7 +775,7 @@
       "assignees": [],
       "comment_claimed_by": "Asterisk117",
       "created_at": "2026-08-28T17:01:07Z",
-      "days_idle": 32,
+      "days_idle": 33,
       "labels": [
         "clang:frontend",
         "miscompilation"
@@ -1284,7 +1284,7 @@
       "assignees": [],
       "comment_claimed_by": "PjDailey11",
       "created_at": "2026-10-28T16:20:36Z",
-      "days_idle": 0,
+      "days_idle": 1,
       "labels": [
         "backend:AMDGPU",
         "llvm:globalisel"
@@ -1642,12 +1642,14 @@
       ],
       "notified_stale": false,
       "number": 246331,
-      "prs": {},
-      "status": "active",
+      "prs": {
+        "246496": "OPEN"
+      },
+      "status": "in_progress",
       "title": "[llvm-mca][x86] Add missing avx512bmm instructions tests",
       "updated_at": "2026-11-26T13:15:01Z",
       "url": "https://github.com/llvm/llvm-project/issues/246331"
     }
   },
-  "last_scan": "2026-11-26 19:40 UTC"
+  "last_scan": "2026-11-26 20:56 UTC"
 }
