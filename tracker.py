@@ -12,6 +12,7 @@ TELEGRAM_CHAT_ID = str(os.environ["TELEGRAM_CHAT_ID"])
 
 STATE_FILE = "state.json"
 STALE_DAYS = 7
+MIN_CREATED_AT = "2026-01-01T00:00:00Z"
 MAX_PAGES = 15  # Up to 750 open good first issues
 
 CLAIM_RE = re.compile(
@@ -131,12 +132,18 @@ def fetch_all_issues() -> list[dict]:
             raise RuntimeError(f"GitHub GraphQL error: {data['errors']}")
 
         issues_block = data["data"]["repository"]["issues"]
-        all_issues.extend(issues_block["nodes"])
+        reached_cutoff = False
 
-        if not issues_block["pageInfo"]["hasNextPage"]:
+        for issue in issues_block["nodes"]:
+            if issue["createdAt"] < MIN_CREATED_AT:
+                reached_cutoff = True
+                break
+            all_issues.append(issue)
+
+        if reached_cutoff or not issues_block["pageInfo"]["hasNextPage"]:
             break
         cursor = issues_block["pageInfo"]["endCursor"]
-        time.sleep(0.5)  # Brief pause between pages
+        time.sleep(0.5)
     return all_issues
 
 
