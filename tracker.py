@@ -30,7 +30,7 @@ GRAPHQL_QUERY = """
 query($cursor: String) {
   repository(owner: "llvm", name: "llvm-project") {
     issues(
-      first: 50
+      first: 20
       after: $cursor
       states: OPEN
       labels: ["good first issue"]
@@ -52,14 +52,14 @@ query($cursor: String) {
         assignees(first: 5) {
           nodes { login }
         }
-        comments(last: 15) {
+        comments(last: 10) {
           nodes {
             author { login }
             createdAt
             bodyText
           }
         }
-        timelineItems(last: 20, itemTypes: [CROSS_REFERENCED_EVENT]) {
+        timelineItems(last: 10, itemTypes: [CROSS_REFERENCED_EVENT]) {
           nodes {
             ... on CrossReferencedEvent {
               source {
@@ -109,15 +109,24 @@ def format_issue(badge: str, info: dict, extra_note: str = "") -> str:
 def fetch_all_issues() -> list[dict]:
     all_issues = []
     cursor = None
-    for _ in range(MAX_PAGES):
-        resp = requests.post(
-            "https://api.github.com/graphql",
-            json={"query": GRAPHQL_QUERY, "variables": {"cursor": cursor}},
-            headers={"Authorization": f"Bearer {GITHUB_TOKEN}"},
-            timeout=25,
-        )
-        resp.raise_for_status()
-        data = resp.json()
+    for page in range(MAX_PAGES):
+        data = None
+        for attempt in range(3):
+            resp = requests.post(
+                "https://api.github.com/graphql",
+                json={"query": GRAPHQL_QUERY, "variables": {"cursor": cursor}},
+                headers={"Authorization": f"Bearer {GITHUB_TOKEN}"},
+                timeout=30,
+            )
+            if resp.status_code in (502, 503, 504):
+                time.sleep(3 * (attempt + 1))
+                continue
+            resp.raise_for_status()
+            data = resp.json()
+            break
+
+        if data is None:
+            raise RuntimeError(f"GitHub GraphQL failed after 3 retries on page {page + 1}")
         if "errors" in data:
             raise RuntimeError(f"GitHub GraphQL error: {data['errors']}")
 
@@ -127,6 +136,7 @@ def fetch_all_issues() -> list[dict]:
         if not issues_block["pageInfo"]["hasNextPage"]:
             break
         cursor = issues_block["pageInfo"]["endCursor"]
+        time.sleep(0.5)  # Brief pause between pages
     return all_issues
 
 
