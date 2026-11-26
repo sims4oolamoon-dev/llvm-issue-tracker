@@ -1,268 +1,2788 @@
 {
-  "236167": {
-    "assignees": [
-      "anshithayeruva",
-      "leogarci42"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "237223": "MERGED",
-      "237561": "MERGED",
-      "237568": "MERGED",
-      "237572": "MERGED",
-      "238000": "CLOSED",
-      "238787": "MERGED"
-    }
-  },
-  "236321": {
-    "assignees": [
-      "leidian977"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "237573": "OPEN"
-    }
-  },
-  "236427": {
-    "assignees": [
-      "awayzjj"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "232266": "MERGED",
-      "237714": "OPEN"
-    }
-  },
-  "236433": {
-    "assignees": [
-      "StarOne01"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "239949": "OPEN"
-    }
-  },
-  "236436": {
-    "assignees": [
-      "Wael-06"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "236439": {
-    "assignees": [
-      "Wael-06"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "238676": "CLOSED",
-      "239075": "OPEN"
-    }
-  },
-  "236440": {
-    "assignees": [
-      "Piyush-Goenka"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "236442": {
-    "assignees": [
-      "Popie52"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "243720": "OPEN"
-    }
-  },
-  "236445": {
-    "assignees": [],
-    "notified_stale": false,
-    "prs": {
-      "240118": "OPEN",
-      "241207": "OPEN"
-    }
-  },
-  "236447": {
-    "assignees": [
-      "ankush-sharma0910"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "236448": {
-    "assignees": [
-      "anjenner"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "236469": {
-    "assignees": [
-      "kulkarni-aditya-01"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "246209": "OPEN"
-    }
-  },
-  "236470": {
-    "assignees": [],
-    "notified_stale": false,
-    "prs": {
-      "237577": "MERGED",
-      "246440": "OPEN"
-    }
-  },
-  "236484": {
-    "assignees": [
-      "SaiChiranth-dev"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "237617": "OPEN"
-    }
-  },
-  "236485": {
-    "assignees": [
-      "blenbot"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "240275": "OPEN"
-    }
-  },
-  "236507": {
-    "assignees": [
-      "molaed"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "244669": "OPEN"
-    }
-  },
-  "236524": {
-    "assignees": [],
-    "notified_stale": false,
-    "prs": {
-      "236589": "OPEN"
-    }
-  },
-  "240179": {
-    "assignees": [
-      "Talb057"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "240224": {
-    "assignees": [
-      "0xPaarth"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "244920": "OPEN"
-    }
-  },
-  "241525": {
-    "assignees": [],
-    "notified_stale": false,
-    "prs": {
-      "242166": "OPEN",
-      "242167": "MERGED",
-      "243235": "MERGED",
-      "243275": "OPEN",
-      "244000": "OPEN",
-      "244656": "OPEN"
-    }
-  },
-  "241707": {
-    "assignees": [
-      "anshithayeruva"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "242823": "OPEN"
-    }
-  },
-  "242842": {
-    "assignees": [],
-    "notified_stale": false,
-    "prs": {
-      "243008": "OPEN",
-      "243855": "OPEN"
-    }
-  },
-  "243395": {
-    "assignees": [
-      "JaydeepChauhan14"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "243467": {
-    "assignees": [],
-    "notified_stale": false,
-    "prs": {
-      "243757": "OPEN"
-    }
-  },
-  "246295": {
-    "assignees": [
-      "Anshuman1303"
-    ],
-    "notified_stale": false,
-    "prs": {
-      "246332": "OPEN"
-    }
-  },
-  "246298": {
-    "assignees": [
-      "rigalis"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "246300": {
-    "assignees": [
-      "competitive-programmer04"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "246302": {
-    "assignees": [
-      "0xPaarth"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "246307": {
-    "assignees": [
-      "hariprakazz"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "246331": {
-    "assignees": [
-      "nguyen-trinhtk"
-    ],
-    "notified_stale": false,
-    "prs": {}
-  },
-  "config": {
-    "paused": false,
-    "stale_days": 14,
-    "tags": []
-  },
   "issues": {
+    "103038": {
+      "assignees": [],
+      "comment_claimed_by": "Ruhin575",
+      "created_at": "2024-08-13T10:32:00Z",
+      "days_idle": 35,
+      "labels": [
+        "clang:static analyzer"
+      ],
+      "notified_stale": false,
+      "number": 103038,
+      "prs": {
+        "106581": "OPEN",
+        "164183": "OPEN",
+        "164184": "OPEN",
+        "234582": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang-analyzer-security.insecureAPI.strcpy] extend list of unsafe functions",
+      "updated_at": "2026-10-22T12:10:41Z",
+      "url": "https://github.com/llvm/llvm-project/issues/103038"
+    },
+    "104": {
+      "assignees": [
+        "henrybw"
+      ],
+      "comment_claimed_by": "henrybw",
+      "created_at": "2020-01-22T12:19:44Z",
+      "days_idle": 447,
+      "labels": [
+        "backend:X86",
+        "ABI",
+        "platform:windows",
+        "extension:microsoft"
+      ],
+      "notified_stale": false,
+      "number": 104,
+      "prs": {
+        "1": "OPEN",
+        "157365": "OPEN",
+        "48": "MERGED"
+      },
+      "status": "in_progress",
+      "title": "Calling convention differs from MSVC for member functions returning SIMD types",
+      "updated_at": "2025-10-10T19:28:34Z",
+      "url": "https://github.com/llvm/llvm-project/issues/104"
+    },
+    "104593": {
+      "assignees": [
+        "ammar2199"
+      ],
+      "comment_claimed_by": "Megan0704-1",
+      "created_at": "2024-08-16T13:59:42Z",
+      "days_idle": 576,
+      "labels": [
+        "mlir:core"
+      ],
+      "notified_stale": false,
+      "number": 104593,
+      "prs": {
+        "104693": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[mlir] Auto generate docs for dialect op interfaces",
+      "updated_at": "2025-04-28T20:57:49Z",
+      "url": "https://github.com/llvm/llvm-project/issues/104593"
+    },
+    "104770": {
+      "assignees": [
+        "chfast",
+        "kiran-isaac"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2024-08-19T12:42:23Z",
+      "days_idle": 608,
+      "labels": [
+        "clang:codegen"
+      ],
+      "notified_stale": false,
+      "number": 104770,
+      "prs": {
+        "134282": "OPEN",
+        "191198": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Unnecessary return statement in unreachable block generated by EmitFunctionEpilog in musttail cases. ",
+      "updated_at": "2026-04-09T13:57:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/104770"
+    },
+    "108469": {
+      "assignees": [
+        "arjunUpatel"
+      ],
+      "comment_claimed_by": "arjunUpatel",
+      "created_at": "2024-09-12T23:04:58Z",
+      "days_idle": 793,
+      "labels": [
+        "tools:llvm-objdump"
+      ],
+      "notified_stale": false,
+      "number": 108469,
+      "prs": {
+        "109914": "CLOSED",
+        "144620": "OPEN",
+        "145253": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[feature][riscv] handle target address calculation in llvm-objdump disassembly for riscv",
+      "updated_at": "2024-09-24T13:55:43Z",
+      "url": "https://github.com/llvm/llvm-project/issues/108469"
+    },
+    "108751": {
+      "assignees": [
+        "chinmaydd"
+      ],
+      "comment_claimed_by": "Shoreshen",
+      "created_at": "2024-09-15T12:16:36Z",
+      "days_idle": 519,
+      "labels": [
+        "backend:AMDGPU",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 108751,
+      "prs": {
+        "108756": "CLOSED",
+        "121465": "MERGED"
+      },
+      "status": "stale",
+      "title": "AMDGPU should implement IR version of isFMAFasterThanFMulAndFAdd",
+      "updated_at": "2025-06-24T21:17:59Z",
+      "url": "https://github.com/llvm/llvm-project/issues/108751"
+    },
+    "112488": {
+      "assignees": [
+        "levi42x",
+        "pratyaypande"
+      ],
+      "comment_claimed_by": "pratyaypande",
+      "created_at": "2024-10-16T07:03:11Z",
+      "days_idle": 99,
+      "labels": [
+        "backend:X86",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 112488,
+      "prs": {
+        "125734": "CLOSED",
+        "220182": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[DAG][X86] Use shrdq to insert into a bitfield",
+      "updated_at": "2026-08-19T17:33:58Z",
+      "url": "https://github.com/llvm/llvm-project/issues/112488"
+    },
+    "112550": {
+      "assignees": [
+        "harrisonGPU"
+      ],
+      "comment_claimed_by": "lwshanbd",
+      "created_at": "2024-10-16T14:09:13Z",
+      "days_idle": 664,
+      "labels": [
+        "backend:AMDGPU"
+      ],
+      "notified_stale": false,
+      "number": 112550,
+      "prs": {
+        "112647": "OPEN",
+        "112652": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "AMDGPU should implement TargetLowering::hasAndNot",
+      "updated_at": "2025-01-31T13:53:40Z",
+      "url": "https://github.com/llvm/llvm-project/issues/112550"
+    },
+    "112631": {
+      "assignees": [
+        "ashwinagrl",
+        "fawdlstty"
+      ],
+      "comment_claimed_by": "KarthikayC",
+      "created_at": "2024-10-16T23:17:06Z",
+      "days_idle": 38,
+      "labels": [
+        "llvm:optimizations",
+        "missed-optimization",
+        "floating-point"
+      ],
+      "notified_stale": false,
+      "number": 112631,
+      "prs": {
+        "112936": "MERGED",
+        "114417": "OPEN",
+        "169893": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "scalbln(x, n), scalbn(x, n), ldexp(x, n) are not folded at the compilation time when (x, n) is constant",
+      "updated_at": "2026-10-19T07:15:06Z",
+      "url": "https://github.com/llvm/llvm-project/issues/112631"
+    },
+    "112909": {
+      "assignees": [
+        "njriasan",
+        "vortex73"
+      ],
+      "comment_claimed_by": "vortex73",
+      "created_at": "2024-10-18T14:21:34Z",
+      "days_idle": 667,
+      "labels": [
+        "clang:frontend",
+        "crash-on-invalid",
+        "confirmed",
+        "generated by fuzzer"
+      ],
+      "notified_stale": false,
+      "number": 112909,
+      "prs": {
+        "124819": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang] Assertion `(!needsOverloadResolutionForCopyConstructor() || (data().DeclaredSpecialMembers & SMF_CopyConstructor)) && \"this property has not yet been computed by Sema\"' failed.",
+      "updated_at": "2025-01-28T17:10:49Z",
+      "url": "https://github.com/llvm/llvm-project/issues/112909"
+    },
+    "112913": {
+      "assignees": [
+        "harrisonGPU"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2024-10-18T14:41:03Z",
+      "days_idle": 53,
+      "labels": [
+        "mlir:vector"
+      ],
+      "notified_stale": false,
+      "number": 112913,
+      "prs": {
+        "112937": "CLOSED",
+        "121454": "MERGED"
+      },
+      "status": "stale",
+      "title": "[mlir][Vector] Improve support for 0-d vectors in vector dialect lowerings",
+      "updated_at": "2026-10-03T23:04:37Z",
+      "url": "https://github.com/llvm/llvm-project/issues/112913"
+    },
+    "114124": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2024-10-29T20:25:45Z",
+      "days_idle": 0,
+      "labels": [
+        "clang:frontend",
+        "confirmed",
+        "crash",
+        "regression:18",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 114124,
+      "prs": {},
+      "status": "active",
+      "title": "[Clang][ICE] crashes when enum class is based on a decltype depending on a static class member",
+      "updated_at": "2026-11-26T16:02:23Z",
+      "url": "https://github.com/llvm/llvm-project/issues/114124"
+    },
+    "114174": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2024-10-30T03:28:18Z",
+      "days_idle": 40,
+      "labels": [
+        "clang:frontend",
+        "crash-on-invalid",
+        "confirmed",
+        "generated by fuzzer",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 114174,
+      "prs": {
+        "143423": "MERGED",
+        "228212": "OPEN",
+        "233663": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang] Assertion `SI.isSigned() == E->getType()->isSignedIntegerOrEnumerationType() && \"Invalid evaluation result.\"' failed.",
+      "updated_at": "2026-11-26T07:40:22Z",
+      "url": "https://github.com/llvm/llvm-project/issues/114174"
+    },
+    "114711": {
+      "assignees": [
+        "siya100"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2024-11-03T16:02:46Z",
+      "days_idle": 83,
+      "labels": [
+        "documentation",
+        "clang"
+      ],
+      "notified_stale": false,
+      "number": 114711,
+      "prs": {},
+      "status": "stale",
+      "title": "Are the tutorials up-to-date? (Clang version is 20.0.0git)",
+      "updated_at": "2026-09-04T04:02:07Z",
+      "url": "https://github.com/llvm/llvm-project/issues/114711"
+    },
+    "115849": {
+      "assignees": [
+        "rhanqtl"
+      ],
+      "comment_claimed_by": "brod4910",
+      "created_at": "2024-11-12T10:44:57Z",
+      "days_idle": 300,
+      "labels": [
+        "mlir:affine"
+      ],
+      "notified_stale": false,
+      "number": 115849,
+      "prs": {
+        "167229": "OPEN",
+        "178726": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[MLIR][affine] Illegal affine loop fusion with vector types",
+      "updated_at": "2026-01-29T19:09:28Z",
+      "url": "https://github.com/llvm/llvm-project/issues/115849"
+    },
+    "115989": {
+      "assignees": [],
+      "comment_claimed_by": "AltriaSuki",
+      "created_at": "2024-11-13T04:51:22Z",
+      "days_idle": 19,
+      "labels": [
+        "mlir:affine"
+      ],
+      "notified_stale": false,
+      "number": 115989,
+      "prs": {
+        "117617": "CLOSED",
+        "122799": "OPEN",
+        "167229": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[MLIR][affine] Proper handling of vector load / stores in Affine dialect and transformations",
+      "updated_at": "2026-11-07T07:04:08Z",
+      "url": "https://github.com/llvm/llvm-project/issues/115989"
+    },
+    "116695": {
+      "assignees": [],
+      "comment_claimed_by": "def3r",
+      "created_at": "2024-11-18T21:51:57Z",
+      "days_idle": 149,
+      "labels": [
+        "backend:NVPTX",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 116695,
+      "prs": {
+        "118830": "CLOSED",
+        "118831": "OPEN",
+        "120030": "MERGED",
+        "120903": "OPEN",
+        "167147": "OPEN",
+        "210344": "MERGED"
+      },
+      "status": "in_progress",
+      "title": "[NVPTX] Port code to `llvm/lib/CodeGen/SelectionDAG/*`",
+      "updated_at": "2026-06-30T13:00:09Z",
+      "url": "https://github.com/llvm/llvm-project/issues/116695"
+    },
+    "117431": {
+      "assignees": [
+        "phychee"
+      ],
+      "comment_claimed_by": "phychee",
+      "created_at": "2024-11-23T12:01:36Z",
+      "days_idle": 724,
+      "labels": [
+        "clang-tidy",
+        "code-quality"
+      ],
+      "notified_stale": false,
+      "number": 117431,
+      "prs": {
+        "117521": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "move `AST_MATCHER(VarDecl, isLocal) { return Node.isLocalVarDecl(); }` to ast-matcher",
+      "updated_at": "2026-08-25T10:47:41Z",
+      "url": "https://github.com/llvm/llvm-project/issues/117431"
+    },
+    "118085": {
+      "assignees": [],
+      "comment_claimed_by": "efriedma-quic",
+      "created_at": "2024-11-29T12:12:40Z",
+      "days_idle": 303,
+      "labels": [
+        "backend:AArch64",
+        "llvm:globalisel",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 118085,
+      "prs": {
+        "118865": "OPEN",
+        "179437": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[AArch64][GlobalISel] ABD operations and combines",
+      "updated_at": "2026-01-27T08:48:24Z",
+      "url": "https://github.com/llvm/llvm-project/issues/118085"
+    },
+    "119190": {
+      "assignees": [
+        "GeorgeKA"
+      ],
+      "comment_claimed_by": "GeorgeKA",
+      "created_at": "2024-12-09T09:59:01Z",
+      "days_idle": 704,
+      "labels": [
+        "test-suite",
+        "clang:driver"
+      ],
+      "notified_stale": false,
+      "number": 119190,
+      "prs": {
+        "120900": "OPEN",
+        "133597": "CLOSED"
+      },
+      "status": "in_progress",
+      "title": "[Clang][Driver][Test] No negative tests for unsupported options in different drivers",
+      "updated_at": "2024-12-22T15:04:09Z",
+      "url": "https://github.com/llvm/llvm-project/issues/119190"
+    },
+    "121952": {
+      "assignees": [],
+      "comment_claimed_by": "shafik",
+      "created_at": "2025-01-07T15:25:59Z",
+      "days_idle": 84,
+      "labels": [
+        "clang:frontend",
+        "compiler-rt:asan",
+        "crash-on-invalid",
+        "generated by fuzzer"
+      ],
+      "notified_stale": false,
+      "number": 121952,
+      "prs": {
+        "235488": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Stack-overflow as a result of stack exhaustion in function `assign()`",
+      "updated_at": "2026-09-03T17:32:39Z",
+      "url": "https://github.com/llvm/llvm-project/issues/121952"
+    },
+    "122006": {
+      "assignees": [
+        "StarOne01",
+        "marcury122",
+        "siya100"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2025-01-07T22:40:00Z",
+      "days_idle": 10,
+      "labels": [
+        "documentation",
+        "libc"
+      ],
+      "notified_stale": false,
+      "number": 122006,
+      "prs": {
+        "126413": "MERGED",
+        "126923": "MERGED",
+        "131817": "MERGED",
+        "132151": "MERGED",
+        "186290": "MERGED",
+        "186291": "MERGED",
+        "186292": "MERGED",
+        "188822": "MERGED",
+        "226982": "MERGED",
+        "227619": "MERGED"
+      },
+      "status": "stale",
+      "title": "[libc][docs][POSIX] flush out documentation for the POSIX defined headers",
+      "updated_at": "2026-11-16T15:25:39Z",
+      "url": "https://github.com/llvm/llvm-project/issues/122006"
+    },
+    "122124": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2025-01-08T15:21:59Z",
+      "days_idle": 308,
+      "labels": [
+        "backend:AArch64"
+      ],
+      "notified_stale": false,
+      "number": 122124,
+      "prs": {
+        "139765": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[AArch64] Correct scheduling information for flag manipulation instructions in Neoverse-V2",
+      "updated_at": "2026-01-22T06:27:58Z",
+      "url": "https://github.com/llvm/llvm-project/issues/122124"
+    },
+    "122937": {
+      "assignees": [
+        "arrowten",
+        "souvik150"
+      ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2025-01-14T17:09:24Z",
+      "days_idle": 424,
+      "labels": [
+        "llvm:codegen",
+        "code-quality"
+      ],
+      "notified_stale": false,
+      "number": 122937,
+      "prs": {},
+      "status": "stale",
+      "title": "llvm/lib/CodeGen/LiveRangeUtils.h:40: Iterators applied to wrong data structure ?",
+      "updated_at": "2025-09-27T19:39:35Z",
+      "url": "https://github.com/llvm/llvm-project/issues/122937"
+    },
+    "123041": {
+      "assignees": [
+        "iamaayushrivastava"
+      ],
+      "comment_claimed_by": "iamaayushrivastava",
+      "created_at": "2025-01-15T11:04:29Z",
+      "days_idle": 201,
+      "labels": [
+        "enhancement",
+        "tools:llvm-objcopy/strip"
+      ],
+      "notified_stale": false,
+      "number": 123041,
+      "prs": {
+        "124582": "CLOSED",
+        "124692": "CLOSED",
+        "196611": "MERGED"
+      },
+      "status": "stale",
+      "title": "Add a `--verbose` option for `llvm-strip`",
+      "updated_at": "2026-05-09T12:17:19Z",
+      "url": "https://github.com/llvm/llvm-project/issues/123041"
+    },
+    "123121": {
+      "assignees": [
+        "amansharma612"
+      ],
+      "comment_claimed_by": "amansharma612",
+      "created_at": "2025-01-15T20:59:12Z",
+      "days_idle": 52,
+      "labels": [
+        "quality-of-implementation",
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 123121,
+      "prs": {
+        "1": "MERGED",
+        "130868": "MERGED",
+        "146426": "CLOSED",
+        "146433": "MERGED",
+        "147120": "MERGED",
+        "179233": "CLOSED",
+        "181769": "MERGED",
+        "215480": "CLOSED"
+      },
+      "status": "stale",
+      "title": "Audit/Update `select` uses in DiagnosticXKinds.td to use `enum_select`.",
+      "updated_at": "2026-10-05T13:25:22Z",
+      "url": "https://github.com/llvm/llvm-project/issues/123121"
+    },
+    "123756": {
+      "assignees": [
+        "sommersun"
+      ],
+      "comment_claimed_by": "Aditi-Ch06",
+      "created_at": "2025-01-21T14:38:36Z",
+      "days_idle": 586,
+      "labels": [
+        "enhancement",
+        "tools:llvm-mca"
+      ],
+      "notified_stale": false,
+      "number": 123756,
+      "prs": {},
+      "status": "stale",
+      "title": "[llvm-mca][FeatureRequest] In timeline graph, note source of delay for each instruction",
+      "updated_at": "2025-04-19T11:12:30Z",
+      "url": "https://github.com/llvm/llvm-project/issues/123756"
+    },
+    "125461": {
+      "assignees": [],
+      "comment_claimed_by": "hongtaihu",
+      "created_at": "2025-02-03T06:55:16Z",
+      "days_idle": 3,
+      "labels": [
+        "clang:frontend",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 125461,
+      "prs": {
+        "244692": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "clang mishandles a unicode escape beyond maximum codepoint limit.",
+      "updated_at": "2026-11-22T21:28:31Z",
+      "url": "https://github.com/llvm/llvm-project/issues/125461"
+    },
+    "125950": {
+      "assignees": [
+        "JoshHuttonCode"
+      ],
+      "comment_claimed_by": "bababuck",
+      "created_at": "2025-02-05T22:32:25Z",
+      "days_idle": 132,
+      "labels": [
+        "backend:AMDGPU",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 125950,
+      "prs": {
+        "151033": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "AMDGPU: can optimize away v_readfirstlane_b32 on implicit_def input",
+      "updated_at": "2026-07-17T18:28:15Z",
+      "url": "https://github.com/llvm/llvm-project/issues/125950"
+    },
+    "127486": {
+      "assignees": [
+        "mtsokol"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2025-02-17T12:34:51Z",
+      "days_idle": 645,
+      "labels": [
+        "llvm:globalisel"
+      ],
+      "notified_stale": false,
+      "number": 127486,
+      "prs": {
+        "127825": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "GlobalISel should have G_POISON",
+      "updated_at": "2025-02-19T16:23:23Z",
+      "url": "https://github.com/llvm/llvm-project/issues/127486"
+    },
+    "128390": {
+      "assignees": [
+        "donneypr",
+        "ethan0150",
+        "rdez13"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2025-02-23T03:08:54Z",
+      "days_idle": 218,
+      "labels": [
+        "backend:AMDGPU",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 128390,
+      "prs": {
+        "190009": "MERGED",
+        "190830": "MERGED",
+        "191031": "CLOSED",
+        "200560": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "AMDGPU is missing simplify demanded bits optimizations of readfirstlane and similar operations",
+      "updated_at": "2026-04-21T19:49:48Z",
+      "url": "https://github.com/llvm/llvm-project/issues/128390"
+    },
+    "129401": {
+      "assignees": [
+        "dipeshs809"
+      ],
+      "comment_claimed_by": "scottmcm",
+      "created_at": "2025-03-01T20:59:30Z",
+      "days_idle": 492,
+      "labels": [
+        "missed-optimization",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 129401,
+      "prs": {
+        "150058": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Improve `llvm.ucmp.iN.i1` codegen (specifically the 1-bit inputs case)",
+      "updated_at": "2025-07-22T09:18:57Z",
+      "url": "https://github.com/llvm/llvm-project/issues/129401"
+    },
+    "130088": {
+      "assignees": [
+        "sreedivyakottilingal"
+      ],
+      "comment_claimed_by": "Harshit2906",
+      "created_at": "2025-03-06T12:24:21Z",
+      "days_idle": 35,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 130088,
+      "prs": {
+        "152291": "CLOSED",
+        "235003": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Failure to recognise unnecessary sext for add+cmp",
+      "updated_at": "2026-10-22T14:35:10Z",
+      "url": "https://github.com/llvm/llvm-project/issues/130088"
+    },
+    "131601": {
+      "assignees": [
+        "gbMattN"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2025-03-17T11:35:24Z",
+      "days_idle": 357,
+      "labels": [
+        "missed-optimization",
+        "llvm:transforms"
+      ],
+      "notified_stale": false,
+      "number": 131601,
+      "prs": {},
+      "status": "stale",
+      "title": "Auto-vectorize saturating addition",
+      "updated_at": "2025-12-04T08:26:00Z",
+      "url": "https://github.com/llvm/llvm-project/issues/131601"
+    },
+    "131734": {
+      "assignees": [
+        "DiviyamPathak"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2025-03-18T05:51:45Z",
+      "days_idle": 614,
+      "labels": [
+        "backend:AMDGPU",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 131734,
+      "prs": {
+        "141810": "CLOSED"
+      },
+      "status": "stale",
+      "title": "AMDGPU should handle SimplifyDemandedVectorElts for more trivial intrinsics",
+      "updated_at": "2025-03-22T03:40:49Z",
+      "url": "https://github.com/llvm/llvm-project/issues/131734"
+    },
+    "131740": {
+      "assignees": [
+        "Filip-Nachov"
+      ],
+      "comment_claimed_by": "arsenm",
+      "created_at": "2025-03-18T06:50:53Z",
+      "days_idle": 617,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
+      "notified_stale": false,
+      "number": 131740,
+      "prs": {
+        "134492": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "AMDGPU GlobalISel fails on select of G_UBSANTRAP",
+      "updated_at": "2025-03-19T01:26:52Z",
+      "url": "https://github.com/llvm/llvm-project/issues/131740"
+    },
+    "132604": {
+      "assignees": [
+        "ImpleLee"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2025-03-23T10:16:26Z",
+      "days_idle": 496,
+      "labels": [
+        "clang:frontend",
+        "ABI",
+        "diverges-from:gcc"
+      ],
+      "notified_stale": false,
+      "number": 132604,
+      "prs": {
+        "148954": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang++] operator==(vector of long, vector of long) -> vector of long long",
+      "updated_at": "2025-07-17T19:06:29Z",
+      "url": "https://github.com/llvm/llvm-project/issues/132604"
+    },
+    "133505": {
+      "assignees": [
+        "hulxv"
+      ],
+      "comment_claimed_by": "sloanev",
+      "created_at": "2025-03-28T18:44:35Z",
+      "days_idle": 154,
+      "labels": [
+        "libc"
+      ],
+      "notified_stale": false,
+      "number": 133505,
+      "prs": {
+        "136274": "OPEN",
+        "218230": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[libc] Clean up copt naming",
+      "updated_at": "2026-06-25T16:05:37Z",
+      "url": "https://github.com/llvm/llvm-project/issues/133505"
+    },
+    "133875": {
+      "assignees": [
+        "egorshamshura"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2025-04-01T07:31:50Z",
+      "days_idle": 603,
+      "labels": [
+        "llvm:transforms"
+      ],
+      "notified_stale": false,
+      "number": 133875,
+      "prs": {},
+      "status": "stale",
+      "title": "MetaRenamer command line options should be replaced with pass parameters",
+      "updated_at": "2025-04-02T02:00:22Z",
+      "url": "https://github.com/llvm/llvm-project/issues/133875"
+    },
+    "134049": {
+      "assignees": [],
+      "comment_claimed_by": "Rishika11052",
+      "created_at": "2025-04-02T08:25:39Z",
+      "days_idle": 32,
+      "labels": [
+        "c++",
+        "clang:frontend",
+        "lambda"
+      ],
+      "notified_stale": false,
+      "number": 134049,
+      "prs": {},
+      "status": "stale",
+      "title": "Specific structure name can cause shadowing of globally defined lambda, causing \"struct::operator()\" to be called instead of \"lambda::operator()\"",
+      "updated_at": "2026-10-25T14:02:11Z",
+      "url": "https://github.com/llvm/llvm-project/issues/134049"
+    },
+    "137028": {
+      "assignees": [],
+      "comment_claimed_by": "AnkitDubeycs25",
+      "created_at": "2025-04-23T17:54:43Z",
+      "days_idle": 201,
+      "labels": [
+        "backend:NVPTX"
+      ],
+      "notified_stale": false,
+      "number": 137028,
+      "prs": {
+        "139543": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[NVPTX] Test SM Versions via `ptxas`",
+      "updated_at": "2026-05-09T18:06:11Z",
+      "url": "https://github.com/llvm/llvm-project/issues/137028"
+    },
+    "138334": {
+      "assignees": [
+        "sallto"
+      ],
+      "comment_claimed_by": "sallto",
+      "created_at": "2025-05-02T20:14:42Z",
+      "days_idle": 561,
+      "labels": [
+        "llvm:instcombine"
+      ],
+      "notified_stale": false,
+      "number": 138334,
+      "prs": {
+        "138763": "MERGED",
+        "142578": "OPEN",
+        "200598": "CLOSED"
+      },
+      "status": "in_progress",
+      "title": "Funnel shift in 64-bit doesn't get matched to an intrinsic",
+      "updated_at": "2025-05-14T15:53:38Z",
+      "url": "https://github.com/llvm/llvm-project/issues/138334"
+    },
+    "138831": {
+      "assignees": [
+        "arthur3336"
+      ],
+      "comment_claimed_by": "heturing",
+      "created_at": "2025-05-07T09:01:47Z",
+      "days_idle": 181,
+      "labels": [
+        "llvm:codegen"
+      ],
+      "notified_stale": false,
+      "number": 138831,
+      "prs": {
+        "138830": "CLOSED",
+        "148111": "MERGED",
+        "200631": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[CodeGen] llc silently ignores -{start|stop}-{after|before} options",
+      "updated_at": "2026-05-29T09:48:16Z",
+      "url": "https://github.com/llvm/llvm-project/issues/138831"
+    },
+    "139268": {
+      "assignees": [
+        "albus-droid"
+      ],
+      "comment_claimed_by": "shafik",
+      "created_at": "2025-05-09T14:03:30Z",
+      "days_idle": 560,
+      "labels": [
+        "clang:frontend",
+        "confirmed",
+        "crash",
+        "clang:openmp"
+      ],
+      "notified_stale": false,
+      "number": 139268,
+      "prs": {
+        "138592": "MERGED",
+        "139986": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[OpenMP] Assertion `llvm::isUIntN(BitWidth, val) && \"Value is not an N-bit unsigned value\"' failed.",
+      "updated_at": "2025-05-15T03:36:26Z",
+      "url": "https://github.com/llvm/llvm-project/issues/139268"
+    },
+    "139512": {
+      "assignees": [
+        "TheShubhendra"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2025-05-12T08:05:31Z",
+      "days_idle": 87,
+      "labels": [
+        "documentation",
+        "llvm"
+      ],
+      "notified_stale": false,
+      "number": 139512,
+      "prs": {
+        "140114": "OPEN",
+        "235506": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Doxygen links to wrong implementation file",
+      "updated_at": "2026-08-31T18:40:54Z",
+      "url": "https://github.com/llvm/llvm-project/issues/139512"
+    },
+    "139786": {
+      "assignees": [
+        "Charukesh827",
+        "ameliajochna"
+      ],
+      "comment_claimed_by": "Spark143-coder",
+      "created_at": "2025-05-13T20:08:57Z",
+      "days_idle": 38,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 139786,
+      "prs": {
+        "140526": "OPEN",
+        "169943": "CLOSED",
+        "193959": "OPEN",
+        "234735": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Missed Optimization: max(max(x, c1) << c2, c3) \u2014> max(x << c2, c3) when c3 >= c1 * 2 ^ c2",
+      "updated_at": "2026-10-20T18:21:23Z",
+      "url": "https://github.com/llvm/llvm-project/issues/139786"
+    },
+    "141479": {
+      "assignees": [
+        "bobby-b-song"
+      ],
+      "comment_claimed_by": "bobby-b-song",
+      "created_at": "2025-05-26T11:39:48Z",
+      "days_idle": 453,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 141479,
+      "prs": {
+        "141962": "OPEN",
+        "178572": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Missed optimization: (%1 <= ~%0) && (%0 > ~%1) ==> false",
+      "updated_at": "2025-08-30T12:31:47Z",
+      "url": "https://github.com/llvm/llvm-project/issues/141479"
+    },
+    "141797": {
+      "assignees": [],
+      "comment_claimed_by": "shafik",
+      "created_at": "2025-05-28T16:23:17Z",
+      "days_idle": 84,
+      "labels": [
+        "c++11",
+        "c++14",
+        "clang:frontend",
+        "diverges-from:gcc"
+      ],
+      "notified_stale": false,
+      "number": 141797,
+      "prs": {},
+      "status": "stale",
+      "title": "`[[gnu::weak]]` disables constant evaluation of constexpr variables in C++14",
+      "updated_at": "2026-09-03T19:46:46Z",
+      "url": "https://github.com/llvm/llvm-project/issues/141797"
+    },
+    "141911": {
+      "assignees": [],
+      "comment_claimed_by": "skylarcs-the-limit",
+      "created_at": "2025-05-29T08:19:37Z",
+      "days_idle": 16,
+      "labels": [
+        "clang:frontend",
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 141911,
+      "prs": {
+        "152488": "MERGED",
+        "152888": "OPEN",
+        "154863": "MERGED",
+        "156199": "MERGED",
+        "167291": "OPEN",
+        "225487": "OPEN",
+        "234961": "OPEN",
+        "235416": "OPEN",
+        "235587": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[Clang] Explain satisfaction failure for more type traits",
+      "updated_at": "2026-11-09T21:18:46Z",
+      "url": "https://github.com/llvm/llvm-project/issues/141911"
+    },
+    "142308": {
+      "assignees": [
+        "2elliti"
+      ],
+      "comment_claimed_by": "harsh241082",
+      "created_at": "2025-06-01T13:07:27Z",
+      "days_idle": 135,
+      "labels": [
+        "backend:X86",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 142308,
+      "prs": {
+        "143313": "CLOSED",
+        "144066": "CLOSED",
+        "145850": "CLOSED",
+        "167286": "MERGED",
+        "191619": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] Failure to reduce extended i64 add/sub/mul arithmetic to i32 with known zeros in the upper 32-bits",
+      "updated_at": "2026-07-14T07:04:30Z",
+      "url": "https://github.com/llvm/llvm-project/issues/142308"
+    },
+    "146564": {
+      "assignees": [],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2025-07-01T16:16:45Z",
+      "days_idle": 288,
+      "labels": [
+        "backend:X86 Scheduler+Cost Models"
+      ],
+      "notified_stale": false,
+      "number": 146564,
+      "prs": {
+        "157631": "MERGED"
+      },
+      "status": "stale",
+      "title": "Zen3 scheduler model for the latency of VEXTRACTF128rri is probably incorrect",
+      "updated_at": "2026-02-11T18:08:35Z",
+      "url": "https://github.com/llvm/llvm-project/issues/146564"
+    },
+    "147850": {
+      "assignees": [
+        "arrowten"
+      ],
+      "comment_claimed_by": "jh7370",
+      "created_at": "2025-07-09T23:13:46Z",
+      "days_idle": 114,
+      "labels": [
+        "tools:llvm-dwarfdump"
+      ],
+      "notified_stale": false,
+      "number": 147850,
+      "prs": {
+        "216559": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Port JSON output format for llvm-dwarfdump",
+      "updated_at": "2026-08-04T09:22:21Z",
+      "url": "https://github.com/llvm/llvm-project/issues/147850"
+    },
+    "149276": {
+      "assignees": [
+        "medhatiwari"
+      ],
+      "comment_claimed_by": "medhatiwari",
+      "created_at": "2025-07-17T09:07:04Z",
+      "days_idle": 357,
+      "labels": [
+        "backend:ARM"
+      ],
+      "notified_stale": false,
+      "number": 149276,
+      "prs": {
+        "171434": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[ARM] computeKnownBitsForTargetNode - add handling for ARMISD::VMOVIMM\\VMVNIMM",
+      "updated_at": "2025-12-03T20:22:05Z",
+      "url": "https://github.com/llvm/llvm-project/issues/149276"
+    },
+    "153543": {
+      "assignees": [
+        "sai18022001"
+      ],
+      "comment_claimed_by": "woruyu",
+      "created_at": "2025-08-14T07:11:10Z",
+      "days_idle": 209,
+      "labels": [
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 153543,
+      "prs": {
+        "153762": "CLOSED",
+        "157580": "CLOSED"
+      },
+      "status": "stale",
+      "title": "Wrong types checked at DAGCombiner::visitSRA(SDNode *N)",
+      "updated_at": "2026-05-01T07:00:04Z",
+      "url": "https://github.com/llvm/llvm-project/issues/153543"
+    },
+    "153787": {
+      "assignees": [
+        "Arghnews",
+        "sangam151"
+      ],
+      "comment_claimed_by": "sangam151",
+      "created_at": "2025-08-15T11:05:27Z",
+      "days_idle": 28,
+      "labels": [
+        "backend:X86",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 153787,
+      "prs": {
+        "236663": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] Recognise VPMADD52L/H patterns on AVX512IFMA/AVXIFMA targets",
+      "updated_at": "2026-10-29T03:45:57Z",
+      "url": "https://github.com/llvm/llvm-project/issues/153787"
+    },
+    "154747": {
+      "assignees": [
+        "ckoparkar"
+      ],
+      "comment_claimed_by": "likhita-marella",
+      "created_at": "2025-08-21T12:33:42Z",
+      "days_idle": 443,
+      "labels": [
+        "clang:frontend",
+        "constexpr",
+        "clang:bytecode"
+      ],
+      "notified_stale": false,
+      "number": 154747,
+      "prs": {
+        "154731": "MERGED",
+        "158048": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[Clang] Allow __builtin_fma/fmaf/fmal to be used in a constant expression",
+      "updated_at": "2025-09-23T08:23:13Z",
+      "url": "https://github.com/llvm/llvm-project/issues/154747"
+    },
+    "15522": {
+      "assignees": [],
+      "comment_claimed_by": "shafik",
+      "created_at": "2013-02-04T12:54:58Z",
+      "days_idle": 290,
+      "labels": [
+        "c",
+        "clang:frontend",
+        "bugzilla",
+        "rejects-valid",
+        "confirmed"
+      ],
+      "notified_stale": false,
+      "number": 15522,
+      "prs": {
+        "129979": "OPEN",
+        "190244": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Can not use C99 function names as variable names in C89",
+      "updated_at": "2026-02-09T16:54:27Z",
+      "url": "https://github.com/llvm/llvm-project/issues/15522"
+    },
+    "156747": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2025-09-03T20:04:43Z",
+      "days_idle": 96,
+      "labels": [
+        "test-suite",
+        "ClangIR"
+      ],
+      "notified_stale": false,
+      "number": 156747,
+      "prs": {
+        "157333": "CLOSED",
+        "183998": "MERGED",
+        "184444": "MERGED",
+        "185956": "MERGED",
+        "189006": "MERGED",
+        "194517": "MERGED",
+        "194518": "MERGED",
+        "198522": "MERGED",
+        "215722": "MERGED"
+      },
+      "status": "stale",
+      "title": "[CIR] Upstream missing tests from the ClangIR incubator",
+      "updated_at": "2026-08-22T11:45:39Z",
+      "url": "https://github.com/llvm/llvm-project/issues/156747"
+    },
+    "158116": {
+      "assignees": [],
+      "comment_claimed_by": "Pranjal095",
+      "created_at": "2025-09-11T16:59:16Z",
+      "days_idle": 307,
+      "labels": [
+        "clang:frontend"
+      ],
+      "notified_stale": false,
+      "number": 158116,
+      "prs": {
+        "167048": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "guarded_by attributes not supported using c++11 style",
+      "updated_at": "2026-06-23T17:49:49Z",
+      "url": "https://github.com/llvm/llvm-project/issues/158116"
+    },
+    "160473": {
+      "assignees": [
+        "ZakyHermawan"
+      ],
+      "comment_claimed_by": "ZakyHermawan",
+      "created_at": "2025-09-24T09:04:30Z",
+      "days_idle": 323,
+      "labels": [
+        "backend:X86",
+        "clang:headers",
+        "constexpr",
+        "clang:bytecode"
+      ],
+      "notified_stale": false,
+      "number": 160473,
+      "prs": {
+        "160876": "CLOSED",
+        "182589": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86][Clang] VectorExprEvaluator::VisitCallExpr / InterpretBuiltin - allow SSE/AVX COMI/UCOMI/CMPS/CMPP fp comparison intrinsics to be used in constexpr",
+      "updated_at": "2026-01-07T18:08:31Z",
+      "url": "https://github.com/llvm/llvm-project/issues/160473"
+    },
+    "160516": {
+      "assignees": [
+        "bojle"
+      ],
+      "comment_claimed_by": "bojle",
+      "created_at": "2025-09-24T13:04:24Z",
+      "days_idle": 387,
+      "labels": [
+        "backend:X86",
+        "clang:headers",
+        "constexpr",
+        "clang:bytecode"
+      ],
+      "notified_stale": false,
+      "number": 160516,
+      "prs": {
+        "161547": "CLOSED"
+      },
+      "status": "stale",
+      "title": "[Clang] VectorExprEvaluator::VisitCallExpr / InterpretBuiltin - allow SSE/AVX/AVX512 square root intrinsics to be used in constexpr",
+      "updated_at": "2025-11-04T10:58:49Z",
+      "url": "https://github.com/llvm/llvm-project/issues/160516"
+    },
+    "160556": {
+      "assignees": [
+        "benedekaibas"
+      ],
+      "comment_claimed_by": "benedekaibas",
+      "created_at": "2025-09-24T16:52:43Z",
+      "days_idle": 422,
+      "labels": [
+        "backend:X86",
+        "clang:headers",
+        "constexpr"
+      ],
+      "notified_stale": false,
+      "number": 160556,
+      "prs": {
+        "161544": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[Headers][X86] Allow AVX512 masked bitlogic intrinsics to be used in constexpr",
+      "updated_at": "2025-09-30T16:50:13Z",
+      "url": "https://github.com/llvm/llvm-project/issues/160556"
+    },
+    "161036": {
+      "assignees": [
+        "ckoparkar"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2025-09-28T03:21:20Z",
+      "days_idle": 420,
+      "labels": [
+        "missed-optimization",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 161036,
+      "prs": {
+        "161651": "MERGED"
+      },
+      "status": "stale",
+      "title": "[x86][armv8] Failure to use flag in unsigned underflow compare idiom",
+      "updated_at": "2025-11-13T10:01:06Z",
+      "url": "https://github.com/llvm/llvm-project/issues/161036"
+    },
+    "161196": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2025-09-29T13:42:12Z",
+      "days_idle": 2,
+      "labels": [
+        "clang:frontend",
+        "crash",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 161196,
+      "prs": {
+        "161231": "MERGED"
+      },
+      "status": "active",
+      "title": "[clang] Crash with dependent default template argument and decltype of static variable template",
+      "updated_at": "2026-11-24T18:27:56Z",
+      "url": "https://github.com/llvm/llvm-project/issues/161196"
+    },
+    "161746": {
+      "assignees": [
+        "def3r"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2025-10-02T22:43:07Z",
+      "days_idle": 34,
+      "labels": [
+        "missed-optimization",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 161746,
+      "prs": {
+        "167034": "CLOSED",
+        "18900": "MERGED",
+        "190930": "OPEN",
+        "227210": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Implement `clz` using floating point math if `clz` instruction is not available",
+      "updated_at": "2026-10-23T13:33:34Z",
+      "url": "https://github.com/llvm/llvm-project/issues/161746"
+    },
+    "163601": {
+      "assignees": [],
+      "comment_claimed_by": "Asterisk117",
+      "created_at": "2025-10-15T17:32:12Z",
+      "days_idle": 33,
+      "labels": [
+        "ClangIR"
+      ],
+      "notified_stale": false,
+      "number": 163601,
+      "prs": {
+        "163612": "MERGED",
+        "163640": "MERGED",
+        "163836": "CLOSED",
+        "163839": "CLOSED",
+        "163850": "CLOSED",
+        "164155": "CLOSED",
+        "166817": "OPEN",
+        "184011": "MERGED",
+        "195232": "OPEN",
+        "209361": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Complete VTable class name for types",
+      "updated_at": "2026-11-20T16:09:31Z",
+      "url": "https://github.com/llvm/llvm-project/issues/163601"
+    },
+    "164161": {
+      "assignees": [
+        "xyz-harshal"
+      ],
+      "comment_claimed_by": "xyz-harshal",
+      "created_at": "2025-10-19T13:51:50Z",
+      "days_idle": 389,
+      "labels": [
+        "backend:X86",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 164161,
+      "prs": {
+        "166015": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] Failure to fold or disjoint nodes into a AVX512 predicated add instruction",
+      "updated_at": "2025-11-01T19:17:32Z",
+      "url": "https://github.com/llvm/llvm-project/issues/164161"
+    },
+    "166155": {
+      "assignees": [
+        "Priyanshi-dixit1",
+        "TarunAkash"
+      ],
+      "comment_claimed_by": "sangam151",
+      "created_at": "2025-11-03T11:44:53Z",
+      "days_idle": 80,
+      "labels": [
+        "enhancement",
+        "documentation",
+        "llvm:adt"
+      ],
+      "notified_stale": false,
+      "number": 166155,
+      "prs": {
+        "172177": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[llvm] Document non-trivial `llvm::DenseMapBase` member functions",
+      "updated_at": "2026-09-07T04:08:11Z",
+      "url": "https://github.com/llvm/llvm-project/issues/166155"
+    },
+    "166623": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2025-11-05T19:43:09Z",
+      "days_idle": 308,
+      "labels": [
+        "clang:frontend",
+        "c2y"
+      ],
+      "notified_stale": false,
+      "number": 166623,
+      "prs": {
+        "167086": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Missing changes for WG14 N3622",
+      "updated_at": "2026-01-22T06:06:52Z",
+      "url": "https://github.com/llvm/llvm-project/issues/166623"
+    },
+    "166750": {
+      "assignees": [
+        "sathvikreddy853"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2025-11-06T11:31:10Z",
+      "days_idle": 28,
+      "labels": [
+        "clang-tidy",
+        "false-positive"
+      ],
+      "notified_stale": false,
+      "number": 166750,
+      "prs": {
+        "166669": "MERGED",
+        "167021": "MERGED",
+        "243931": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang-tidy] llvm-header-guard suggest invalid ifdef macros name",
+      "updated_at": "2026-10-29T04:08:36Z",
+      "url": "https://github.com/llvm/llvm-project/issues/166750"
+    },
+    "167314": {
+      "assignees": [
+        "Spark143-coder"
+      ],
+      "comment_claimed_by": "ronan19375",
+      "created_at": "2025-11-10T13:48:26Z",
+      "days_idle": 32,
+      "labels": [
+        "missed-optimization",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 167314,
+      "prs": {
+        "167416": "OPEN",
+        "235312": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[DAG] MatchLoadCombine - match swapped loads",
+      "updated_at": "2026-10-25T07:16:03Z",
+      "url": "https://github.com/llvm/llvm-project/issues/167314"
+    },
+    "167752": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2025-11-12T20:11:48Z",
+      "days_idle": 210,
+      "labels": [
+        "ClangIR"
+      ],
+      "notified_stale": false,
+      "number": 167752,
+      "prs": {
+        "170353": "MERGED",
+        "170877": "MERGED",
+        "170924": "MERGED",
+        "171694": "MERGED",
+        "173788": "MERGED",
+        "174236": "MERGED",
+        "175892": "MERGED",
+        "20": "CLOSED",
+        "208025": "MERGED"
+      },
+      "status": "stale",
+      "title": "[CIR] Upstream handling of X86 builtins",
+      "updated_at": "2026-05-30T15:49:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/167752"
+    },
+    "167765": {
+      "assignees": [],
+      "comment_claimed_by": "prashantsinghaniya",
+      "created_at": "2025-11-12T21:45:53Z",
+      "days_idle": 38,
+      "labels": [
+        "ClangIR"
+      ],
+      "notified_stale": false,
+      "number": 167765,
+      "prs": {
+        "20": "CLOSED",
+        "206388": "MERGED",
+        "208011": "OPEN",
+        "208851": "MERGED",
+        "212143": "CLOSED",
+        "213571": "MERGED",
+        "215787": "MERGED",
+        "217326": "OPEN",
+        "234304": "MERGED"
+      },
+      "status": "in_progress",
+      "title": "[CIR] Implement missing X86 builtins",
+      "updated_at": "2026-10-21T23:43:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/167765"
+    },
+    "168828": {
+      "assignees": [
+        "stomfaig"
+      ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2025-11-20T05:37:00Z",
+      "days_idle": 245,
+      "labels": [
+        "backend:X86",
+        "missed-optimization",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 168828,
+      "prs": {
+        "185539": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[x86] Eliminate `movzx` when upper part of register is irrelevant or overwritten",
+      "updated_at": "2026-03-26T10:03:22Z",
+      "url": "https://github.com/llvm/llvm-project/issues/168828"
+    },
+    "168920": {
+      "assignees": [],
+      "comment_claimed_by": "l-krrish",
+      "created_at": "2025-11-20T17:57:25Z",
+      "days_idle": 14,
+      "labels": [
+        "lldb",
+        "test-suite"
+      ],
+      "notified_stale": false,
+      "number": 168920,
+      "prs": {
+        "168619": "MERGED",
+        "169236": "MERGED",
+        "173473": "MERGED",
+        "20": "CLOSED",
+        "243529": "CLOSED",
+        "243536": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[LLDB] Swig python extensions are missing test coverage",
+      "updated_at": "2026-11-11T20:27:12Z",
+      "url": "https://github.com/llvm/llvm-project/issues/168920"
+    },
+    "171877": {
+      "assignees": [
+        "Ronxvier"
+      ],
+      "comment_claimed_by": "dtcxzyw",
+      "created_at": "2025-12-11T17:39:35Z",
+      "days_idle": 88,
+      "labels": [
+        "code-cleanup",
+        "floating-point",
+        "constant-folding"
+      ],
+      "notified_stale": false,
+      "number": 171877,
+      "prs": {
+        "172139": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[ConstantFolding] Move `LibCallSimplifier::optimizeFdim` into ConstantFolding",
+      "updated_at": "2026-08-30T03:21:44Z",
+      "url": "https://github.com/llvm/llvm-project/issues/171877"
+    },
+    "173780": {
+      "assignees": [
+        "Xinlong-Chen",
+        "varadk27"
+      ],
+      "comment_claimed_by": "varadk27",
+      "created_at": "2025-12-28T15:17:52Z",
+      "days_idle": 10,
+      "labels": [
+        "llvm:instcombine"
+      ],
+      "notified_stale": false,
+      "number": 173780,
+      "prs": {
+        "173865": "CLOSED",
+        "240291": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[InstCombine] SimplifyDemandedBits - add basic bitcast handling",
+      "updated_at": "2026-11-16T09:57:58Z",
+      "url": "https://github.com/llvm/llvm-project/issues/173780"
+    },
+    "174143": {
+      "assignees": [
+        "kevinlim17"
+      ],
+      "comment_claimed_by": "kevinlim17",
+      "created_at": "2026-01-01T14:43:20Z",
+      "days_idle": 123,
+      "labels": [
+        "llvm:instcombine"
+      ],
+      "notified_stale": false,
+      "number": 174143,
+      "prs": {
+        "174176": "MERGED",
+        "212183": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[InstCombine] SimplifyDemandedFPClass - add DemandedElts demanded vector elements argument",
+      "updated_at": "2026-07-26T21:10:11Z",
+      "url": "https://github.com/llvm/llvm-project/issues/174143"
+    },
+    "174214": {
+      "assignees": [
+        "karouzakisp"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2026-01-02T14:27:27Z",
+      "days_idle": 214,
+      "labels": [
+        "backend:X86",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 174214,
+      "prs": {},
+      "status": "stale",
+      "title": "Improving performance of 2xi64 icmp slt/sgt/ult/ugt on SSE2 using 2xi64 sub",
+      "updated_at": "2026-04-26T03:16:16Z",
+      "url": "https://github.com/llvm/llvm-project/issues/174214"
+    },
+    "175": {
+      "assignees": [],
+      "comment_claimed_by": "Sammy-code04092006",
+      "created_at": "2020-03-13T06:59:07Z",
+      "days_idle": 298,
+      "labels": [
+        "help wanted",
+        "gsoc",
+        "llvm::Attributor"
+      ],
+      "notified_stale": false,
+      "number": 175,
+      "prs": {
+        "445": "MERGED"
+      },
+      "status": "stale",
+      "title": "[Attributor] Make use of analysis in the MustBeExecutedExplorer ",
+      "updated_at": "2026-02-02T01:56:47Z",
+      "url": "https://github.com/llvm/llvm-project/issues/175"
+    },
+    "175934": {
+      "assignees": [],
+      "comment_claimed_by": "shafik",
+      "created_at": "2026-01-14T12:08:19Z",
+      "days_idle": 59,
+      "labels": [
+        "clang:frontend",
+        "confirmed",
+        "crash-on-valid",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 175934,
+      "prs": {
+        "227288": "OPEN",
+        "227936": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang]Crash in `getASTRecordLayout` when a class template has a field of type `decltype(&static data member)`",
+      "updated_at": "2026-11-26T08:32:28Z",
+      "url": "https://github.com/llvm/llvm-project/issues/175934"
+    },
+    "176468": {
+      "assignees": [
+        "emias11"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2026-01-16T20:13:10Z",
+      "days_idle": 276,
+      "labels": [
+        "clang:codegen",
+        "HLSL"
+      ],
+      "notified_stale": false,
+      "number": 176468,
+      "prs": {
+        "176216": "MERGED",
+        "177884": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Refactor `CodeGenFunction::EmitStoreThroughLValue` in `CGExpr.cpp` to consolidate HLSL-specific behavior into helper functions",
+      "updated_at": "2026-02-22T22:53:25Z",
+      "url": "https://github.com/llvm/llvm-project/issues/176468"
+    },
+    "177369": {
+      "assignees": [
+        "SainaDaneshmandjahromi",
+        "qiongsiwu"
+      ],
+      "comment_claimed_by": "sangam151",
+      "created_at": "2026-01-22T14:25:48Z",
+      "days_idle": 78,
+      "labels": [
+        "backend:X86"
+      ],
+      "notified_stale": false,
+      "number": 177369,
+      "prs": {
+        "177881": "CLOSED",
+        "199828": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] SimplifyDemandedBitsForTargetNode - add X86ISD::BZHI handling",
+      "updated_at": "2026-09-09T15:51:03Z",
+      "url": "https://github.com/llvm/llvm-project/issues/177369"
+    },
+    "177448": {
+      "assignees": [],
+      "comment_claimed_by": "Dash198",
+      "created_at": "2026-01-22T19:54:24Z",
+      "days_idle": 39,
+      "labels": [
+        "missed-optimization",
+        "floating-point",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 177448,
+      "prs": {
+        "178865": "CLOSED",
+        "213202": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "getNegatedExpression should handle FP16_TO_FP and FP_TO_FP16",
+      "updated_at": "2026-10-18T14:21:31Z",
+      "url": "https://github.com/llvm/llvm-project/issues/177448"
+    },
+    "177466": {
+      "assignees": [],
+      "comment_claimed_by": "HighCommander4",
+      "created_at": "2026-01-22T21:00:01Z",
+      "days_idle": 307,
+      "labels": [
+        "clangd",
+        "crash"
+      ],
+      "notified_stale": false,
+      "number": 177466,
+      "prs": {
+        "177834": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clangd] crashes with a SIGSEGV when receiving a textDocument/didOpen request where the URI points to a directory instead of a file.",
+      "updated_at": "2026-01-23T14:09:45Z",
+      "url": "https://github.com/llvm/llvm-project/issues/177466"
+    },
+    "180046": {
+      "assignees": [],
+      "comment_claimed_by": "shivachethanhalamane",
+      "created_at": "2026-02-05T22:24:15Z",
+      "days_idle": 32,
+      "labels": [
+        "clang:frontend"
+      ],
+      "notified_stale": false,
+      "number": 180046,
+      "prs": {
+        "180175": "OPEN",
+        "198976": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Clang elides the wrong part of the template type in error message.",
+      "updated_at": "2026-10-25T16:35:09Z",
+      "url": "https://github.com/llvm/llvm-project/issues/180046"
+    },
+    "184672": {
+      "assignees": [],
+      "comment_claimed_by": "shafik",
+      "created_at": "2026-03-04T19:59:34Z",
+      "days_idle": 266,
+      "labels": [
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 184672,
+      "prs": {
+        "184924": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang] warn on operator in macro expansion whose operand doesn't lie entirely within the same macro expansion",
+      "updated_at": "2026-10-21T21:57:16Z",
+      "url": "https://github.com/llvm/llvm-project/issues/184672"
+    },
+    "185382": {
+      "assignees": [],
+      "comment_claimed_by": null,
+      "created_at": "2026-03-09T09:44:11Z",
+      "days_idle": 0,
+      "labels": [
+        "ClangIR"
+      ],
+      "notified_stale": false,
+      "number": 185382,
+      "prs": {
+        "213755": "MERGED",
+        "217198": "MERGED",
+        "217950": "MERGED",
+        "218319": "MERGED",
+        "220476": "MERGED",
+        "221389": "MERGED",
+        "221507": "MERGED",
+        "226382": "MERGED",
+        "245840": "MERGED"
+      },
+      "status": "unclaimed",
+      "title": "[CIR] Upstream handling of AArch64 (Arm) Neon builtins",
+      "updated_at": "2026-11-25T20:10:10Z",
+      "url": "https://github.com/llvm/llvm-project/issues/185382"
+    },
+    "186274": {
+      "assignees": [],
+      "comment_claimed_by": "nots1dd",
+      "created_at": "2026-03-12T23:01:58Z",
+      "days_idle": 121,
+      "labels": [
+        "enhancement",
+        "c++11",
+        "clang:frontend",
+        "quality-of-implementation",
+        "slow-compile"
+      ],
+      "notified_stale": false,
+      "number": 186274,
+      "prs": {
+        "188196": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "performance optimization: special-case deduction for variables of type `auto`",
+      "updated_at": "2026-07-28T13:53:16Z",
+      "url": "https://github.com/llvm/llvm-project/issues/186274"
+    },
+    "187675": {
+      "assignees": [],
+      "comment_claimed_by": "Ippo47",
+      "created_at": "2026-03-20T11:09:05Z",
+      "days_idle": 204,
+      "labels": [
+        "clang:temporal-safety"
+      ],
+      "notified_stale": false,
+      "number": 187675,
+      "prs": {
+        "195981": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "-Wdangling-field detects view members initalized from a by-value owner parameter",
+      "updated_at": "2026-11-07T00:26:57Z",
+      "url": "https://github.com/llvm/llvm-project/issues/187675"
+    },
+    "189479": {
+      "assignees": [],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2026-03-30T20:57:52Z",
+      "days_idle": 3,
+      "labels": [
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 189479,
+      "prs": {
+        "190539": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[DAG] computeKnownFPClass - add ISD::SINT_TO_FP/UINT_TO_FP handling",
+      "updated_at": "2026-11-23T17:16:24Z",
+      "url": "https://github.com/llvm/llvm-project/issues/189479"
+    },
+    "189583": {
+      "assignees": [
+        "varadk27"
+      ],
+      "comment_claimed_by": "varadk27",
+      "created_at": "2026-03-31T10:25:38Z",
+      "days_idle": 121,
+      "labels": [
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 189583,
+      "prs": {
+        "189707": "MERGED",
+        "195405": "OPEN",
+        "213620": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[DAG] computeKnownFPClass - add ISD::SQRT handling + test coverage",
+      "updated_at": "2026-07-28T10:06:02Z",
+      "url": "https://github.com/llvm/llvm-project/issues/189583"
+    },
+    "189694": {
+      "assignees": [
+        "Ko496-glitch"
+      ],
+      "comment_claimed_by": "Ko496-glitch",
+      "created_at": "2026-03-31T15:43:44Z",
+      "days_idle": 236,
+      "labels": [
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 189694,
+      "prs": {
+        "190465": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[DAG] computeKnownFPClass - add ISD::MAXNUM/MINNUM handling + test coverage",
+      "updated_at": "2026-04-04T15:38:15Z",
+      "url": "https://github.com/llvm/llvm-project/issues/189694"
+    },
+    "189764": {
+      "assignees": [],
+      "comment_claimed_by": "purnima-nlp",
+      "created_at": "2026-03-31T22:17:40Z",
+      "days_idle": 136,
+      "labels": [
+        "llvm:codegen",
+        "crash-on-invalid",
+        "PGO"
+      ],
+      "notified_stale": false,
+      "number": 189764,
+      "prs": {
+        "190186": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[MIRSampleProfile] nullptr deref crash when profile sample use file not found",
+      "updated_at": "2026-07-13T15:38:23Z",
+      "url": "https://github.com/llvm/llvm-project/issues/189764"
+    },
+    "190520": {
+      "assignees": [
+        "asadium"
+      ],
+      "comment_claimed_by": "molaed",
+      "created_at": "2026-04-05T11:39:07Z",
+      "days_idle": 29,
+      "labels": [
+        "backend:X86"
+      ],
+      "notified_stale": false,
+      "number": 190520,
+      "prs": {
+        "190896": "MERGED",
+        "194197": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] computeKnownBitsForTargetNode - add X86ISD::GF2P8AFFINEQB handling",
+      "updated_at": "2026-10-28T10:47:44Z",
+      "url": "https://github.com/llvm/llvm-project/issues/190520"
+    },
+    "191975": {
+      "assignees": [],
+      "comment_claimed_by": "anuragGupta08",
+      "created_at": "2026-04-14T07:12:47Z",
+      "days_idle": 86,
+      "labels": [
+        "confirmed",
+        "crash-on-valid",
+        "llvm:transforms",
+        "generated by fuzzer",
+        "regression:14"
+      ],
+      "notified_stale": false,
+      "number": 191975,
+      "prs": {
+        "205520": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[opt] -passes=\"place-safepoints\" causes Assertion `F && \"gc.safepoint_poll function is missing\"'",
+      "updated_at": "2026-09-01T08:00:36Z",
+      "url": "https://github.com/llvm/llvm-project/issues/191975"
+    },
+    "195276": {
+      "assignees": [],
+      "comment_claimed_by": "ChenMiaoi",
+      "created_at": "2026-05-01T15:22:00Z",
+      "days_idle": 4,
+      "labels": [
+        "libc"
+      ],
+      "notified_stale": false,
+      "number": 195276,
+      "prs": {
+        "196654": "CLOSED",
+        "229587": "OPEN",
+        "246120": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[libc] Request for Annex K via `__STDC_WANT_LIB_EXT1__` doesn't work as expected",
+      "updated_at": "2026-11-22T05:26:27Z",
+      "url": "https://github.com/llvm/llvm-project/issues/195276"
+    },
+    "195400": {
+      "assignees": [
+        "competitive-programmer04"
+      ],
+      "comment_claimed_by": "competitive-programmer04",
+      "created_at": "2026-05-02T01:52:27Z",
+      "days_idle": 23,
+      "labels": [
+        "libc"
+      ],
+      "notified_stale": false,
+      "number": 195400,
+      "prs": {
+        "198115": "MERGED",
+        "199206": "MERGED",
+        "199556": "CLOSED",
+        "238777": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[libc][math] Add missing isnan variants for float16, bfloat16, and float128",
+      "updated_at": "2026-11-03T03:19:14Z",
+      "url": "https://github.com/llvm/llvm-project/issues/195400"
+    },
+    "195462": {
+      "assignees": [
+        "sipher-01"
+      ],
+      "comment_claimed_by": "sipher-01",
+      "created_at": "2026-05-02T15:29:31Z",
+      "days_idle": 97,
+      "labels": [
+        "backend:X86",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 195462,
+      "prs": {
+        "196122": "OPEN",
+        "206592": "MERGED"
+      },
+      "status": "in_progress",
+      "title": "[AVX-512] `splat(u64 & 255) -| u64s_that_fit_in_bytes` should lower to `vpsubusb`",
+      "updated_at": "2026-08-20T20:46:38Z",
+      "url": "https://github.com/llvm/llvm-project/issues/195462"
+    },
+    "195620": {
+      "assignees": [
+        "udaykiriti"
+      ],
+      "comment_claimed_by": "SHAURYASAXENA2024",
+      "created_at": "2026-05-04T09:18:27Z",
+      "days_idle": 65,
+      "labels": [
+        "libc"
+      ],
+      "notified_stale": false,
+      "number": 195620,
+      "prs": {
+        "195295": "MERGED",
+        "195792": "MERGED",
+        "197940": "MERGED",
+        "201051": "CLOSED"
+      },
+      "status": "stale",
+      "title": "[libc] Check the ordering of the *at syscalls",
+      "updated_at": "2026-09-22T05:54:42Z",
+      "url": "https://github.com/llvm/llvm-project/issues/195620"
+    },
+    "198106": {
+      "assignees": [
+        "pechy"
+      ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2026-05-16T15:27:12Z",
+      "days_idle": 84,
+      "labels": [
+        "performance",
+        "optimization:AMDCPU"
+      ],
+      "notified_stale": false,
+      "number": 198106,
+      "prs": {},
+      "status": "stale",
+      "title": "OCUDU benchmarks notably slower on clang22 than gcc16 on avx512 target",
+      "updated_at": "2026-09-03T17:20:20Z",
+      "url": "https://github.com/llvm/llvm-project/issues/198106"
+    },
+    "200795": {
+      "assignees": [
+        "keshavvinayak01"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2026-06-01T12:19:03Z",
+      "days_idle": 163,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel",
+        "crash"
+      ],
+      "notified_stale": false,
+      "number": 200795,
+      "prs": {
+        "205049": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU][GlobalIsel] ICE: unable to lower arguments: void (i32)",
+      "updated_at": "2026-06-16T15:21:34Z",
+      "url": "https://github.com/llvm/llvm-project/issues/200795"
+    },
+    "201328": {
+      "assignees": [
+        "iamaayushrivastava"
+      ],
+      "comment_claimed_by": "SreshthTiwari",
+      "created_at": "2026-06-03T11:44:58Z",
+      "days_idle": 116,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 201328,
+      "prs": {
+        "201469": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "missed optimization of and + csel + sub",
+      "updated_at": "2026-08-02T13:07:33Z",
+      "url": "https://github.com/llvm/llvm-project/issues/201328"
+    },
+    "201900": {
+      "assignees": [
+        "samriddb"
+      ],
+      "comment_claimed_by": "samriddb",
+      "created_at": "2026-06-05T18:06:59Z",
+      "days_idle": 149,
+      "labels": [
+        "HLSL",
+        "backend:SPIR-V"
+      ],
+      "notified_stale": false,
+      "number": 201900,
+      "prs": {
+        "205386": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[HLSL][SPIRV] Remove unecessary `STI.isShader()` check that avoid `OpConstantNull`",
+      "updated_at": "2026-06-30T17:22:04Z",
+      "url": "https://github.com/llvm/llvm-project/issues/201900"
+    },
+    "202035": {
+      "assignees": [
+        "SunilKumarPradhan"
+      ],
+      "comment_claimed_by": "SunilKumarPradhan",
+      "created_at": "2026-06-06T11:40:44Z",
+      "days_idle": 45,
+      "labels": [
+        "backend:X86",
+        "missed-optimization",
+        "floating-point"
+      ],
+      "notified_stale": false,
+      "number": 202035,
+      "prs": {
+        "233731": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] failed to lower llround llroundf lround lroundf to native instruction",
+      "updated_at": "2026-10-12T09:22:04Z",
+      "url": "https://github.com/llvm/llvm-project/issues/202035"
+    },
+    "204945": {
+      "assignees": [
+        "aadanen"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2026-06-20T19:12:40Z",
+      "days_idle": 156,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 204945,
+      "prs": {
+        "204954": "CLOSED",
+        "205058": "CLOSED",
+        "205092": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "`pext(x & m, m)` -> `pext(x, m)`",
+      "updated_at": "2026-06-23T04:39:41Z",
+      "url": "https://github.com/llvm/llvm-project/issues/204945"
+    },
+    "205320": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-06-23T11:42:48Z",
+      "days_idle": 0,
+      "labels": [
+        "c",
+        "clang:frontend",
+        "confirmed",
+        "crash",
+        "inline-asm",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 205320,
+      "prs": {},
+      "status": "active",
+      "title": "[Clang] Assertion failure in SemaInit.cpp when parsing variable declaration with empty __asm__ label and parenthesized initializer",
+      "updated_at": "2026-11-26T08:37:39Z",
+      "url": "https://github.com/llvm/llvm-project/issues/205320"
+    },
+    "205569": {
+      "assignees": [
+        "heturing"
+      ],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-06-24T14:26:03Z",
+      "days_idle": 155,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
+      "notified_stale": false,
+      "number": 205569,
+      "prs": {
+        "206043": "OPEN",
+        "206342": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "AMDGPU/GlobalISel: use fewer store instructions",
+      "updated_at": "2026-06-24T16:08:40Z",
+      "url": "https://github.com/llvm/llvm-project/issues/205569"
+    },
+    "206289": {
+      "assignees": [
+        "sabonaoabdi"
+      ],
+      "comment_claimed_by": "sabonaoabdi",
+      "created_at": "2026-06-27T21:33:22Z",
+      "days_idle": 99,
+      "labels": [
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 206289,
+      "prs": {
+        "207631": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[DAG] computeKnownBits - add support for ISD::VECREDUCE_ADD",
+      "updated_at": "2026-08-19T09:11:23Z",
+      "url": "https://github.com/llvm/llvm-project/issues/206289"
+    },
+    "211770": {
+      "assignees": [],
+      "comment_claimed_by": "VachanVY",
+      "created_at": "2026-07-24T11:38:53Z",
+      "days_idle": 39,
+      "labels": [
+        "clang:frontend",
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 211770,
+      "prs": {
+        "211785": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang] Add thousands-separator to \"cannot allocate array; evaluated array bound [...] exceeds the limit\" diagnostic",
+      "updated_at": "2026-10-18T11:28:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/211770"
+    },
+    "212675": {
+      "assignees": [],
+      "comment_claimed_by": "ankit-cybertron",
+      "created_at": "2026-07-29T03:55:32Z",
+      "days_idle": 73,
+      "labels": [],
+      "notified_stale": false,
+      "number": 212675,
+      "prs": {
+        "213430": "CLOSED",
+        "213455": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Codegen for type-aware allocation attempts to compute the size of an incomplete type when building in c++17 mode",
+      "updated_at": "2026-09-14T04:09:44Z",
+      "url": "https://github.com/llvm/llvm-project/issues/212675"
+    },
+    "213425": {
+      "assignees": [],
+      "comment_claimed_by": "linisha15",
+      "created_at": "2026-08-01T10:01:53Z",
+      "days_idle": 97,
+      "labels": [
+        "orcjit",
+        "jitlink",
+        "platform:macos",
+        "objective-c",
+        "clang-repl",
+        "orc-rt"
+      ],
+      "notified_stale": false,
+      "number": 213425,
+      "prs": {
+        "215359": "OPEN",
+        "217988": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "clang-repl: Objective-C message sends abort (\"unrecognized selector\") because JIT ObjC selrefs are not registered",
+      "updated_at": "2026-08-20T22:46:54Z",
+      "url": "https://github.com/llvm/llvm-project/issues/213425"
+    },
+    "216070": {
+      "assignees": [
+        "plasmavolt"
+      ],
+      "comment_claimed_by": "plasmavolt",
+      "created_at": "2026-08-13T14:49:09Z",
+      "days_idle": 15,
+      "labels": [
+        "backend:X86",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 216070,
+      "prs": {},
+      "status": "stale",
+      "title": "[X86] improve llvm.experimental.vector.histogram codegen on avx512dq+avx512cd+avx512vpopcntdq",
+      "updated_at": "2026-11-11T04:42:21Z",
+      "url": "https://github.com/llvm/llvm-project/issues/216070"
+    },
+    "216127": {
+      "assignees": [],
+      "comment_claimed_by": "Asterisk117",
+      "created_at": "2026-08-13T17:35:47Z",
+      "days_idle": 30,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 216127,
+      "prs": {
+        "216157": "OPEN",
+        "222978": "MERGED",
+        "245004": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[InstCombine] Add folds like UCmp(a \u00b1\u207f\u1d58\u02b7 n, b \u00b1\u207f\u1d58\u02b7 n) \u2192 UCmp(a, b)",
+      "updated_at": "2026-11-20T21:42:03Z",
+      "url": "https://github.com/llvm/llvm-project/issues/216127"
+    },
+    "217375": {
+      "assignees": [],
+      "comment_claimed_by": "sangam151",
+      "created_at": "2026-08-19T15:54:53Z",
+      "days_idle": 84,
+      "labels": [
+        "clang-tidy",
+        "confirmed",
+        "crash-on-valid"
+      ],
+      "notified_stale": false,
+      "number": 217375,
+      "prs": {
+        "219050": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Crash running clang-tidy, in \"bugprone-unique-ptr-array-mismatch\"",
+      "updated_at": "2026-09-03T13:47:25Z",
+      "url": "https://github.com/llvm/llvm-project/issues/217375"
+    },
+    "219531": {
+      "assignees": [],
+      "comment_claimed_by": "Asterisk117",
+      "created_at": "2026-08-28T17:01:07Z",
+      "days_idle": 32,
+      "labels": [
+        "clang:frontend",
+        "miscompilation"
+      ],
+      "notified_stale": false,
+      "number": 219531,
+      "prs": {
+        "219646": "OPEN",
+        "231830": "CLOSED"
+      },
+      "status": "in_progress",
+      "title": "`__builtin_bit_cast` of an ext_vector element yields lane 0 at run time, disagreeing with constant evaluation",
+      "updated_at": "2026-10-24T20:10:12Z",
+      "url": "https://github.com/llvm/llvm-project/issues/219531"
+    },
+    "221801": {
+      "assignees": [],
+      "comment_claimed_by": "Sukumarsawant",
+      "created_at": "2026-09-07T18:50:29Z",
+      "days_idle": 73,
+      "labels": [
+        "metaissue",
+        "libc",
+        "bazel"
+      ],
+      "notified_stale": false,
+      "number": 221801,
+      "prs": {
+        "221862": "CLOSED"
+      },
+      "status": "stale",
+      "title": "[libc][bazel] Add missing targets for math functions/tests to bazel files",
+      "updated_at": "2026-09-15T14:31:03Z",
+      "url": "https://github.com/llvm/llvm-project/issues/221801"
+    },
+    "223064": {
+      "assignees": [],
+      "comment_claimed_by": "adiroy28852",
+      "created_at": "2026-09-11T21:17:47Z",
+      "days_idle": 48,
+      "labels": [
+        "clang:frontend",
+        "rejects-valid",
+        "constexpr"
+      ],
+      "notified_stale": false,
+      "number": 223064,
+      "prs": {
+        "223184": "CLOSED",
+        "223663": "CLOSED",
+        "230599": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "constant evaluator loses track of most-derived array information when reconstructing `LValue` from `APValue`",
+      "updated_at": "2026-10-09T02:55:39Z",
+      "url": "https://github.com/llvm/llvm-project/issues/223064"
+    },
+    "223664": {
+      "assignees": [
+        "Popie52"
+      ],
+      "comment_claimed_by": "Mubaris2",
+      "created_at": "2026-09-15T11:55:40Z",
+      "days_idle": 58,
+      "labels": [
+        "libc",
+        "bazel"
+      ],
+      "notified_stale": false,
+      "number": 223664,
+      "prs": {
+        "227081": "MERGED",
+        "227206": "MERGED"
+      },
+      "status": "stale",
+      "title": "[libc][bazel] Add targets for float functions/tests to bazel files",
+      "updated_at": "2026-09-29T12:17:50Z",
+      "url": "https://github.com/llvm/llvm-project/issues/223664"
+    },
+    "223717": {
+      "assignees": [
+        "usefahmed07"
+      ],
+      "comment_claimed_by": "KaustAbhinand",
+      "created_at": "2026-09-15T14:27:08Z",
+      "days_idle": 45,
+      "labels": [
+        "libc",
+        "bazel"
+      ],
+      "notified_stale": false,
+      "number": 223717,
+      "prs": {
+        "223867": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[libc][bazel] Add targets for long double functions/tests to bazel files",
+      "updated_at": "2026-10-25T15:08:49Z",
+      "url": "https://github.com/llvm/llvm-project/issues/223717"
+    },
+    "224660": {
+      "assignees": [],
+      "comment_claimed_by": "adiroy28852",
+      "created_at": "2026-09-18T14:34:46Z",
+      "days_idle": 52,
+      "labels": [
+        "backend:AArch64",
+        "debuginfo",
+        "llvm:globalisel"
+      ],
+      "notified_stale": false,
+      "number": 224660,
+      "prs": {
+        "229492": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[GlobalISel] Ignore debug instructions in the trunc-store search budget",
+      "updated_at": "2026-10-07T01:44:19Z",
+      "url": "https://github.com/llvm/llvm-project/issues/224660"
+    },
+    "22583": {
+      "assignees": [
+        "kidq330"
+      ],
+      "comment_claimed_by": "5chmidti",
+      "created_at": "2015-01-12T19:32:50Z",
+      "days_idle": 761,
+      "labels": [
+        "clang-tidy",
+        "bugzilla",
+        "awaiting-review",
+        "check-request"
+      ],
+      "notified_stale": false,
+      "number": 22583,
+      "prs": {
+        "113046": "CLOSED",
+        "122940": "OPEN",
+        "305": "MERGED",
+        "74663": "CLOSED"
+      },
+      "status": "in_progress",
+      "title": "Replace memcpy with std::copy",
+      "updated_at": "2024-10-26T10:57:04Z",
+      "url": "https://github.com/llvm/llvm-project/issues/22583"
+    },
+    "227265": {
+      "assignees": [
+        "mihaizegheru"
+      ],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-09-29T10:33:57Z",
+      "days_idle": 58,
+      "labels": [
+        "flang:frontend",
+        "crash",
+        "flang:openmp"
+      ],
+      "notified_stale": false,
+      "number": 227265,
+      "prs": {
+        "228037": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[flang][OpenMP] Segfault in OmpStructureChecker::Enter(parser::Module) when modules form a USE cycle",
+      "updated_at": "2026-09-29T15:36:08Z",
+      "url": "https://github.com/llvm/llvm-project/issues/227265"
+    },
+    "227340": {
+      "assignees": [
+        "ErickTejaxun"
+      ],
+      "comment_claimed_by": "ErickTejaxun",
+      "created_at": "2026-09-29T15:11:17Z",
+      "days_idle": 58,
+      "labels": [
+        "flang:frontend"
+      ],
+      "notified_stale": false,
+      "number": 227340,
+      "prs": {
+        "228489": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[flang] A module that USEs itself directly in its specification part is not diagnosed",
+      "updated_at": "2026-09-29T18:46:56Z",
+      "url": "https://github.com/llvm/llvm-project/issues/227340"
+    },
+    "227438": {
+      "assignees": [
+        "sangam151"
+      ],
+      "comment_claimed_by": "adiroy28852",
+      "created_at": "2026-09-29T19:07:19Z",
+      "days_idle": 43,
+      "labels": [
+        "backend:PowerPC"
+      ],
+      "notified_stale": false,
+      "number": 227438,
+      "prs": {
+        "232837": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[CodeGen][PowerPC] `atan2(double)` is incorrectly recognized as `atan2(double, double)`",
+      "updated_at": "2026-10-14T16:17:13Z",
+      "url": "https://github.com/llvm/llvm-project/issues/227438"
+    },
+    "230886": {
+      "assignees": [
+        "Popie52"
+      ],
+      "comment_claimed_by": "Andarwinux",
+      "created_at": "2026-10-11T04:39:25Z",
+      "days_idle": 42,
+      "labels": [
+        "backend:X86",
+        "missed-optimization",
+        "floating-point",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 230886,
+      "prs": {
+        "233204": "OPEN",
+        "235010": "MERGED",
+        "244920": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] opt in expandModf instead of libcall",
+      "updated_at": "2026-10-15T02:11:45Z",
+      "url": "https://github.com/llvm/llvm-project/issues/230886"
+    },
+    "230893": {
+      "assignees": [
+        "Popie52"
+      ],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-10-11T05:17:19Z",
+      "days_idle": 33,
+      "labels": [
+        "backend:X86",
+        "missed-optimization",
+        "floating-point",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 230893,
+      "prs": {
+        "233204": "OPEN",
+        "235300": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] opt in expandFrexp for vector frexp instead of scalarization by libcall",
+      "updated_at": "2026-10-24T09:36:36Z",
+      "url": "https://github.com/llvm/llvm-project/issues/230893"
+    },
+    "235270": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-10-24T10:35:17Z",
+      "days_idle": 31,
+      "labels": [
+        "backend:RISC-V",
+        "miscompilation",
+        "generated by fuzzer"
+      ],
+      "notified_stale": false,
+      "number": 235270,
+      "prs": {
+        "237205": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang][RISCV] canonicalizeMaskForVLPredicate accepts a wrapping (mod 2^EltBits) step sequence, so lanes of `(splat(b) | <..., 4,5,6,7>) < n` are computed wrong",
+      "updated_at": "2026-10-26T02:02:20Z",
+      "url": "https://github.com/llvm/llvm-project/issues/235270"
+    },
     "236167": {
       "assignees": [
         "anshithayeruva",
         "leogarci42"
       ],
+      "comment_claimed_by": "leogarci42",
+      "created_at": "2026-10-27T15:50:48Z",
+      "days_idle": 25,
+      "labels": [
+        "libc"
+      ],
       "notified_stale": true,
+      "number": 236167,
       "prs": {
         "237223": "MERGED",
         "237561": "MERGED",
@@ -270,161 +2790,394 @@
         "237572": "MERGED",
         "238000": "CLOSED",
         "238787": "MERGED"
-      }
+      },
+      "status": "stale",
+      "title": "Implement signal-related functions",
+      "updated_at": "2026-11-01T07:50:11Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236167"
     },
     "236321": {
       "assignees": [
         "leidian977"
       ],
+      "comment_claimed_by": "leidian977",
+      "created_at": "2026-10-28T05:42:10Z",
+      "days_idle": 28,
+      "labels": [
+        "backend:RISC-V",
+        "confirmed",
+        "crash-on-valid",
+        "llvm:analysis",
+        "regression:20"
+      ],
       "notified_stale": false,
+      "number": 236321,
       "prs": {
         "237573": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[RISCV][TTI] opt crash: \"Instruction is not an extension\" UNREACHABLE for sitofp/uitofp of narrow vector ints to f16 with zvfh",
+      "updated_at": "2026-10-29T02:54:17Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236321"
     },
     "236427": {
       "assignees": [
         "awayzjj"
       ],
+      "comment_claimed_by": "awayzjj",
+      "created_at": "2026-10-28T14:45:53Z",
+      "days_idle": 29,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236427,
       "prs": {
         "232266": "MERGED",
         "237714": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU][GlobalISel] 64-bit shl whose result fits in 32 bits is not narrowed",
+      "updated_at": "2026-10-29T10:27:09Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236427"
     },
     "236433": {
       "assignees": [
         "StarOne01"
       ],
+      "comment_claimed_by": "StarOne01",
+      "created_at": "2026-10-28T14:55:35Z",
+      "days_idle": 28,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236433,
       "prs": {
         "239949": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU][GlobalISel] Constants used only by divergent phis are materialized in SGPRs",
+      "updated_at": "2026-10-29T10:26:06Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236433"
     },
     "236436": {
       "assignees": [
         "Wael-06"
       ],
+      "comment_claimed_by": "Wael-06",
+      "created_at": "2026-10-28T14:59:45Z",
+      "days_idle": 29,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": true,
-      "prs": {}
+      "number": 236436,
+      "prs": {},
+      "status": "stale",
+      "title": "[AMDGPU][GlobalISel] Uniform branch on (xor cond, 1) is not folded into the scc compare",
+      "updated_at": "2026-10-29T10:31:26Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236436"
     },
     "236439": {
       "assignees": [
         "Wael-06"
       ],
+      "comment_claimed_by": "Wael-06",
+      "created_at": "2026-10-28T15:07:30Z",
+      "days_idle": 29,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236439,
       "prs": {
         "238676": "CLOSED",
         "239075": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU][GlobalISel] Redundant mask before G_AMDGPU_CVT_F32_UBYTEn is not removed",
+      "updated_at": "2026-10-29T10:31:04Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236439"
     },
     "236440": {
       "assignees": [
         "Piyush-Goenka"
       ],
+      "comment_claimed_by": "competitive-programmer04",
+      "created_at": "2026-10-28T15:10:04Z",
+      "days_idle": 0,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
-      "prs": {}
+      "number": 236440,
+      "prs": {},
+      "status": "active",
+      "title": "[AMDGPU][GlobalISel] f16 -> i8 fptosi/fptoui goes through f32 on targets with 16-bit insts",
+      "updated_at": "2026-11-26T04:44:14Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236440"
     },
     "236442": {
       "assignees": [
         "Popie52"
       ],
+      "comment_claimed_by": null,
+      "created_at": "2026-10-28T15:17:26Z",
+      "days_idle": 12,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236442,
       "prs": {
         "243720": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU][GlobalISel] uchar_to_float combine turns legal uitofp i16 -> f16 into cvt_f32_ubyte0 + fptrunc",
+      "updated_at": "2026-11-14T15:57:58Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236442"
     },
     "236445": {
       "assignees": [],
+      "comment_claimed_by": "awayzjj",
+      "created_at": "2026-10-28T15:23:53Z",
+      "days_idle": 15,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236445,
       "prs": {
         "240118": "OPEN",
         "241207": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[GlobalISel] (and (zext x), mask) is not relaxed to (and (anyext x), mask)",
+      "updated_at": "2026-11-11T11:05:36Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236445"
     },
     "236447": {
       "assignees": [
         "ankush-sharma0910"
       ],
-      "notified_stale": false,
-      "prs": {}
+      "comment_claimed_by": "ankush-sharma0910",
+      "created_at": "2026-10-28T15:28:06Z",
+      "days_idle": 9,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
+      "notified_stale": true,
+      "number": 236447,
+      "prs": {},
+      "status": "stale",
+      "title": "[AMDGPU][GlobalISel] Unmerge of an sgpr->vgpr copy of a 64-bit constant is not split into 32-bit constants",
+      "updated_at": "2026-11-17T10:45:26Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236447"
     },
     "236448": {
       "assignees": [
         "anjenner"
       ],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-10-28T15:32:01Z",
+      "days_idle": 29,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": true,
-      "prs": {}
+      "number": 236448,
+      "prs": {},
+      "status": "stale",
+      "title": "[AMDGPU][GlobalISel] v_perm_b32 is not formed from or of byte-selecting operations",
+      "updated_at": "2026-11-06T15:33:05Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236448"
     },
     "236469": {
       "assignees": [
         "kulkarni-aditya-01"
       ],
+      "comment_claimed_by": "Enfey",
+      "created_at": "2026-10-28T16:14:27Z",
+      "days_idle": 5,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236469,
       "prs": {
         "246209": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU][GlobalISel] <2 x i64> udiv/urem with 32-bit operands uses the full 64-bit expansion",
+      "updated_at": "2026-11-20T23:27:02Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236469"
     },
     "236470": {
       "assignees": [],
+      "comment_claimed_by": "PjDailey11",
+      "created_at": "2026-10-28T16:20:36Z",
+      "days_idle": 0,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236470,
       "prs": {
         "237577": "MERGED",
         "246440": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[GlobalISel] i64 sdiv/srem by constant is not expanded to a multiply (sdiv_by_const requires G_SMULH legal)",
+      "updated_at": "2026-11-25T20:38:07Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236470"
     },
     "236484": {
       "assignees": [
         "SaiChiranth-dev"
       ],
+      "comment_claimed_by": "SaiChiranth-dev",
+      "created_at": "2026-10-28T16:27:25Z",
+      "days_idle": 27,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236484,
       "prs": {
         "237617": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU][GlobalISel] 64-bit sdiv/srem with enough sign bits uses the full 64-bit expansion",
+      "updated_at": "2026-10-30T09:48:29Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236484"
     },
     "236485": {
       "assignees": [
         "blenbot"
       ],
+      "comment_claimed_by": "blenbot",
+      "created_at": "2026-10-28T16:29:39Z",
+      "days_idle": 21,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236485,
       "prs": {
         "240275": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[GlobalISel] Narrowed multiply materializes every carry with v_cndmask instead of chaining them through add-with-carry",
+      "updated_at": "2026-11-08T13:11:13Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236485"
     },
     "236507": {
       "assignees": [
         "molaed"
       ],
+      "comment_claimed_by": "competitive-programmer04",
+      "created_at": "2026-10-28T17:23:37Z",
+      "days_idle": 9,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236507,
       "prs": {
         "244669": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU][GlobalISel] Constant shift amounts of split packed 16-bit shifts are not folded after RegBankLegalize",
+      "updated_at": "2026-11-17T10:25:38Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236507"
     },
     "236524": {
       "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-10-28T17:50:14Z",
+      "days_idle": 29,
+      "labels": [
+        "backend:AMDGPU",
+        "llvm:globalisel"
+      ],
       "notified_stale": false,
+      "number": 236524,
       "prs": {
         "236589": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU][GlobalISel] inreg arguments passed in VGPRs keep a readfirstlane even when only used by VALU",
+      "updated_at": "2026-10-28T17:54:46Z",
+      "url": "https://github.com/llvm/llvm-project/issues/236524"
     },
     "240179": {
       "assignees": [
         "Talb057"
       ],
+      "comment_claimed_by": "0xPaarth",
+      "created_at": "2026-11-08T18:47:28Z",
+      "days_idle": 1,
+      "labels": [
+        "backend:X86",
+        "missed-optimization",
+        "floating-point"
+      ],
       "notified_stale": false,
-      "prs": {}
+      "number": 240179,
+      "prs": {},
+      "status": "active",
+      "title": "[X86][AVX512] lower frexp with avx512",
+      "updated_at": "2026-11-25T17:10:34Z",
+      "url": "https://github.com/llvm/llvm-project/issues/240179"
     },
     "240224": {
       "assignees": [
         "0xPaarth"
       ],
+      "comment_claimed_by": "0xPaarth",
+      "created_at": "2026-11-09T00:45:33Z",
+      "days_idle": 9,
+      "labels": [
+        "backend:X86",
+        "missed-optimization",
+        "floating-point"
+      ],
       "notified_stale": false,
+      "number": 240224,
       "prs": {
         "244920": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[X86][AVX512] lower modf to avx512 vreduce",
+      "updated_at": "2026-11-17T05:19:13Z",
+      "url": "https://github.com/llvm/llvm-project/issues/240224"
     },
     "241525": {
       "assignees": [],
+      "comment_claimed_by": "Wet-nat",
+      "created_at": "2026-11-11T20:59:48Z",
+      "days_idle": 0,
+      "labels": [
+        "backend:AMDGPU",
+        "ClangIR"
+      ],
       "notified_stale": false,
+      "number": 241525,
       "prs": {
         "242166": "OPEN",
         "242167": "MERGED",
@@ -432,83 +3185,1977 @@
         "243275": "OPEN",
         "244000": "OPEN",
         "244656": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[CIR][AMDGPU] Implement the remaining AMDGPU target builtins in CIRGen",
+      "updated_at": "2026-11-26T13:07:21Z",
+      "url": "https://github.com/llvm/llvm-project/issues/241525"
     },
     "241707": {
       "assignees": [
         "anshithayeruva"
       ],
+      "comment_claimed_by": "anshithayeruva",
+      "created_at": "2026-11-12T06:22:31Z",
+      "days_idle": 12,
+      "labels": [
+        "backend:X86",
+        "missed-optimization",
+        "floating-point"
+      ],
       "notified_stale": false,
+      "number": 241707,
       "prs": {
         "242823": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[X86][AVX512] improve llvm.fptoui.sat avx512dq codegen",
+      "updated_at": "2026-11-14T16:45:42Z",
+      "url": "https://github.com/llvm/llvm-project/issues/241707"
     },
     "242842": {
       "assignees": [],
+      "comment_claimed_by": "metp",
+      "created_at": "2026-11-15T15:03:48Z",
+      "days_idle": 10,
+      "labels": [
+        "clang:frontend",
+        "confirmed"
+      ],
       "notified_stale": false,
+      "number": 242842,
       "prs": {
         "243008": "OPEN",
         "243855": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[Clang] Wrong storage size for tentative array completed by later extern",
+      "updated_at": "2026-11-16T03:52:11Z",
+      "url": "https://github.com/llvm/llvm-project/issues/242842"
     },
     "243395": {
       "assignees": [
         "JaydeepChauhan14"
       ],
+      "comment_claimed_by": "0xPaarth",
+      "created_at": "2026-11-17T09:07:39Z",
+      "days_idle": 1,
+      "labels": [
+        "backend:X86",
+        "missed-optimization"
+      ],
       "notified_stale": false,
-      "prs": {}
+      "number": 243395,
+      "prs": {},
+      "status": "active",
+      "title": "[X86][AVX10.2] improve llvm.fptoui.sat and llvm.fptosi.sat (scalar+vector) avx10.2 codegen",
+      "updated_at": "2026-11-25T14:53:26Z",
+      "url": "https://github.com/llvm/llvm-project/issues/243395"
     },
     "243467": {
       "assignees": [],
+      "comment_claimed_by": "Andarwinux",
+      "created_at": "2026-11-17T13:01:41Z",
+      "days_idle": 9,
+      "labels": [
+        "enhancement",
+        "clang:frontend"
+      ],
       "notified_stale": false,
+      "number": 243467,
       "prs": {
         "243757": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[clang] add __builtin_elementwise_mulh",
+      "updated_at": "2026-11-17T13:12:02Z",
+      "url": "https://github.com/llvm/llvm-project/issues/243467"
     },
     "246295": {
       "assignees": [
         "Anshuman1303"
       ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2026-11-26T10:08:40Z",
+      "days_idle": 0,
+      "labels": [
+        "test-suite",
+        "backend:X86",
+        "backend:X86 Scheduler+Cost Models"
+      ],
       "notified_stale": false,
+      "number": 246295,
       "prs": {
         "246332": "OPEN"
-      }
+      },
+      "status": "in_progress",
+      "title": "[llvm-mca][x86] Add missing avxifma instructions tests",
+      "updated_at": "2026-11-26T15:19:43Z",
+      "url": "https://github.com/llvm/llvm-project/issues/246295"
     },
     "246298": {
       "assignees": [
         "rigalis"
       ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2026-11-26T10:13:54Z",
+      "days_idle": 0,
+      "labels": [
+        "test-suite",
+        "backend:X86",
+        "backend:X86 Scheduler+Cost Models"
+      ],
       "notified_stale": false,
-      "prs": {}
+      "number": 246298,
+      "prs": {},
+      "status": "active",
+      "title": "[llvm-mca][x86] Add missing avxvnniint8/16 instructions tests",
+      "updated_at": "2026-11-26T16:28:22Z",
+      "url": "https://github.com/llvm/llvm-project/issues/246298"
     },
     "246300": {
       "assignees": [
         "competitive-programmer04"
       ],
+      "comment_claimed_by": "competitive-programmer04",
+      "created_at": "2026-11-26T10:18:55Z",
+      "days_idle": 0,
+      "labels": [
+        "test-suite",
+        "backend:X86",
+        "backend:X86 Scheduler+Cost Models"
+      ],
       "notified_stale": false,
-      "prs": {}
+      "number": 246300,
+      "prs": {},
+      "status": "active",
+      "title": "[llvm-mca][x86] Add missing avxneconvert instructions tests",
+      "updated_at": "2026-11-26T16:23:04Z",
+      "url": "https://github.com/llvm/llvm-project/issues/246300"
     },
     "246302": {
       "assignees": [
         "0xPaarth"
       ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2026-11-26T10:23:05Z",
+      "days_idle": 0,
+      "labels": [
+        "backend:X86",
+        "backend:X86 Scheduler+Cost Models"
+      ],
       "notified_stale": false,
-      "prs": {}
+      "number": 246302,
+      "prs": {},
+      "status": "active",
+      "title": "[llvm-mca][x86] Add missing avx512fp16 instructions tests",
+      "updated_at": "2026-11-26T14:40:00Z",
+      "url": "https://github.com/llvm/llvm-project/issues/246302"
     },
     "246307": {
       "assignees": [
         "hariprakazz"
       ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2026-11-26T10:41:50Z",
+      "days_idle": 0,
+      "labels": [
+        "backend:X86",
+        "backend:X86 Scheduler+Cost Models"
+      ],
       "notified_stale": false,
-      "prs": {}
+      "number": 246307,
+      "prs": {},
+      "status": "active",
+      "title": "[llvm-mca][x86] Add missing sha512 instructions tests",
+      "updated_at": "2026-11-26T14:35:18Z",
+      "url": "https://github.com/llvm/llvm-project/issues/246307"
     },
     "246331": {
       "assignees": [
         "nguyen-trinhtk"
       ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2026-11-26T12:23:41Z",
+      "days_idle": 0,
+      "labels": [
+        "backend:X86",
+        "backend:X86 Scheduler+Cost Models",
+        "optimization:AMDCPU"
+      ],
       "notified_stale": false,
-      "prs": {}
+      "number": 246331,
+      "prs": {},
+      "status": "active",
+      "title": "[llvm-mca][x86] Add missing avx512bmm instructions tests",
+      "updated_at": "2026-11-26T13:15:01Z",
+      "url": "https://github.com/llvm/llvm-project/issues/246331"
+    },
+    "24841": {
+      "assignees": [
+        "4m4n-x-B4w4ne"
+      ],
+      "comment_claimed_by": "ashu3103",
+      "created_at": "2015-08-15T02:45:36Z",
+      "days_idle": 242,
+      "labels": [
+        "clang-tidy",
+        "bugzilla",
+        "check-request"
+      ],
+      "notified_stale": false,
+      "number": 24841,
+      "prs": {
+        "124319": "OPEN",
+        "99713": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Replace /* ... */ single-line comments with // ... comments",
+      "updated_at": "2026-03-29T04:44:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/24841"
+    },
+    "25689": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2015-10-25T20:55:29Z",
+      "days_idle": 20,
+      "labels": [
+        "clang:frontend",
+        "bugzilla",
+        "rejects-valid",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 25689,
+      "prs": {},
+      "status": "stale",
+      "title": "typeof rejects initialiser expression",
+      "updated_at": "2026-11-06T01:50:54Z",
+      "url": "https://github.com/llvm/llvm-project/issues/25689"
+    },
+    "28406": {
+      "assignees": [],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2016-06-07T06:03:08Z",
+      "days_idle": 1230,
+      "labels": [
+        "clang:frontend",
+        "crash-on-invalid",
+        "bugzilla",
+        "confirmed"
+      ],
+      "notified_stale": false,
+      "number": 28406,
+      "prs": {
+        "102051": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "clang crashes on x86_64-linux-gnu with Assertion `power <= maxExponent' failed",
+      "updated_at": "2023-10-14T13:50:07Z",
+      "url": "https://github.com/llvm/llvm-project/issues/28406"
+    },
+    "29043": {
+      "assignees": [],
+      "comment_claimed_by": "noahmbright",
+      "created_at": "2016-07-22T19:12:12Z",
+      "days_idle": 22,
+      "labels": [
+        "llvm:core",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 29043,
+      "prs": {
+        "111077": "MERGED",
+        "216253": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Unnecessary vector type produces wrong ll parser error",
+      "updated_at": "2026-11-04T12:03:27Z",
+      "url": "https://github.com/llvm/llvm-project/issues/29043"
+    },
+    "31113": {
+      "assignees": [],
+      "comment_claimed_by": "hongtaihu",
+      "created_at": "2017-01-26T04:29:05Z",
+      "days_idle": 42,
+      "labels": [
+        "c++",
+        "clang:frontend",
+        "accepts-invalid",
+        "bugzilla",
+        "confirmed",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 31113,
+      "prs": {},
+      "status": "stale",
+      "title": "incorrectly permitting definition of class template via injected-class-name",
+      "updated_at": "2026-10-15T09:33:02Z",
+      "url": "https://github.com/llvm/llvm-project/issues/31113"
+    },
+    "31744": {
+      "assignees": [
+        "cs24btech11038"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2017-03-23T17:00:36Z",
+      "days_idle": 32,
+      "labels": [
+        "llvm-tools",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 31744,
+      "prs": {
+        "235424": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] update_llc_test_checks.py fails on win32 triples",
+      "updated_at": "2026-10-25T15:42:29Z",
+      "url": "https://github.com/llvm/llvm-project/issues/31744"
+    },
+    "31860": {
+      "assignees": [
+        "saideepaksana"
+      ],
+      "comment_claimed_by": "ashu3103",
+      "created_at": "2017-04-03T22:27:23Z",
+      "days_idle": 243,
+      "labels": [
+        "clang-tidy",
+        "bugzilla",
+        "check-request"
+      ],
+      "notified_stale": false,
+      "number": 31860,
+      "prs": {
+        "167158": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Readability check for position of constant operand in binary operators",
+      "updated_at": "2026-03-28T12:50:06Z",
+      "url": "https://github.com/llvm/llvm-project/issues/31860"
+    },
+    "32961": {
+      "assignees": [
+        "fuad1502"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2017-06-27T16:16:53Z",
+      "days_idle": 271,
+      "labels": [
+        "backend:X86",
+        "bugzilla",
+        "confirmed",
+        "llvm:instcombine"
+      ],
+      "notified_stale": false,
+      "number": 32961,
+      "prs": {
+        "184328": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86][SSE] Recognise v2i64 comparison patterns",
+      "updated_at": "2026-02-28T11:19:16Z",
+      "url": "https://github.com/llvm/llvm-project/issues/32961"
+    },
+    "33528": {
+      "assignees": [
+        "seranu"
+      ],
+      "comment_claimed_by": "seranu",
+      "created_at": "2017-08-14T05:03:05Z",
+      "days_idle": 679,
+      "labels": [
+        "bugzilla",
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 33528,
+      "prs": {
+        "114687": "CLOSED",
+        "115234": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Improve -Wparentheses for arbitrary bool contexts",
+      "updated_at": "2025-01-16T16:40:34Z",
+      "url": "https://github.com/llvm/llvm-project/issues/33528"
+    },
+    "33870": {
+      "assignees": [],
+      "comment_claimed_by": "shrav784",
+      "created_at": "2017-09-07T23:11:41Z",
+      "days_idle": 262,
+      "labels": [
+        "llvm:codegen",
+        "debuginfo",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 33870,
+      "prs": {
+        "166627": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[DWARF] Line 0 should not have is_stmt set",
+      "updated_at": "2026-03-09T09:25:29Z",
+      "url": "https://github.com/llvm/llvm-project/issues/33870"
+    },
+    "33874": {
+      "assignees": [
+        "Manojcs47",
+        "bhanuponguru"
+      ],
+      "comment_claimed_by": "Manojcs47",
+      "created_at": "2017-09-08T11:38:21Z",
+      "days_idle": 387,
+      "labels": [
+        "llvm:codegen",
+        "bugzilla",
+        "confirmed",
+        "llvm:instcombine"
+      ],
+      "notified_stale": false,
+      "number": 33874,
+      "prs": {
+        "77184": "CLOSED"
+      },
+      "status": "stale",
+      "title": "Improve bitfield arithmetic",
+      "updated_at": "2026-01-12T10:04:15Z",
+      "url": "https://github.com/llvm/llvm-project/issues/33874"
+    },
+    "34434": {
+      "assignees": [
+        "divvelarakesh1"
+      ],
+      "comment_claimed_by": "divvelarakesh1",
+      "created_at": "2017-10-25T21:45:41Z",
+      "days_idle": 296,
+      "labels": [
+        "clang-tidy",
+        "bugzilla",
+        "confirmed",
+        "check-request"
+      ],
+      "notified_stale": false,
+      "number": 34434,
+      "prs": {
+        "127430": "MERGED"
+      },
+      "status": "stale",
+      "title": "readability check to convert numerical constants to std::numeric_limits",
+      "updated_at": "2026-02-02T19:05:17Z",
+      "url": "https://github.com/llvm/llvm-project/issues/34434"
+    },
+    "34652": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2017-11-14T16:31:20Z",
+      "days_idle": 308,
+      "labels": [
+        "clang:tooling",
+        "bugzilla",
+        "confirmed"
+      ],
+      "notified_stale": false,
+      "number": 34652,
+      "prs": {
+        "69848": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "include/clang/Tooling/Refactoring/Rename/RenamingAction.h:79]: (performance)",
+      "updated_at": "2026-01-22T06:44:32Z",
+      "url": "https://github.com/llvm/llvm-project/issues/34652"
+    },
+    "35414": {
+      "assignees": [
+        "IvanArkhipov1999"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2018-01-23T21:04:06Z",
+      "days_idle": 561,
+      "labels": [
+        "clang-tidy",
+        "bugzilla",
+        "check-request"
+      ],
+      "notified_stale": false,
+      "number": 35414,
+      "prs": {
+        "76153": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "modernize-use-digit-separator",
+      "updated_at": "2025-05-14T16:11:50Z",
+      "url": "https://github.com/llvm/llvm-project/issues/35414"
+    },
+    "36323": {
+      "assignees": [
+        "saideepaksana"
+      ],
+      "comment_claimed_by": "saideepaksana",
+      "created_at": "2018-04-02T12:30:51Z",
+      "days_idle": 81,
+      "labels": [
+        "enhancement",
+        "clang-tidy",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 36323,
+      "prs": {
+        "120087": "MERGED",
+        "121761": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Add option to readability-implicit-bool-conversion check to allow implicit conversion *to bool*",
+      "updated_at": "2026-09-09T03:34:18Z",
+      "url": "https://github.com/llvm/llvm-project/issues/36323"
+    },
+    "37146": {
+      "assignees": [
+        "Samhitha1212"
+      ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2018-06-14T09:11:20Z",
+      "days_idle": 390,
+      "labels": [
+        "backend:X86",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 37146,
+      "prs": {},
+      "status": "stale",
+      "title": "[X86] Add support for X86ISD float2int constant folding",
+      "updated_at": "2025-11-01T13:38:01Z",
+      "url": "https://github.com/llvm/llvm-project/issues/37146"
+    },
+    "37301": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2018-06-27T13:16:31Z",
+      "days_idle": 308,
+      "labels": [
+        "metaissue",
+        "debuginfo",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 37301,
+      "prs": {},
+      "status": "stale",
+      "title": "[meta] [debugify] fix -check-debugify failures",
+      "updated_at": "2026-01-22T15:46:06Z",
+      "url": "https://github.com/llvm/llvm-project/issues/37301"
+    },
+    "37751": {
+      "assignees": [
+        "eoan-ermine"
+      ],
+      "comment_claimed_by": "gxyd",
+      "created_at": "2018-08-01T10:40:43Z",
+      "days_idle": 576,
+      "labels": [
+        "enhancement",
+        "clang-format",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 37751,
+      "prs": {},
+      "status": "stale",
+      "title": "Macros on access specifiers not formatted correctly",
+      "updated_at": "2025-04-29T14:04:28Z",
+      "url": "https://github.com/llvm/llvm-project/issues/37751"
+    },
+    "38089": {
+      "assignees": [
+        "cd578596-8da0-4f5b-aaae-5d286920841a"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2018-08-28T17:26:46Z",
+      "days_idle": 1109,
+      "labels": [
+        "clang-tidy",
+        "bugzilla",
+        "check-request"
+      ],
+      "notified_stale": false,
+      "number": 38089,
+      "prs": {},
+      "status": "stale",
+      "title": "bugprone check for delete this",
+      "updated_at": "2024-10-25T01:58:34Z",
+      "url": "https://github.com/llvm/llvm-project/issues/38089"
+    },
+    "38501": {
+      "assignees": [
+        "ArihantChawla"
+      ],
+      "comment_claimed_by": "ArihantChawla",
+      "created_at": "2018-10-02T15:26:13Z",
+      "days_idle": 185,
+      "labels": [
+        "backend:X86",
+        "bugzilla",
+        "llvm:analysis"
+      ],
+      "notified_stale": false,
+      "number": 38501,
+      "prs": {
+        "199558": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86] Add ComputeKnownBits support for BEXTR",
+      "updated_at": "2026-05-25T17:31:38Z",
+      "url": "https://github.com/llvm/llvm-project/issues/38501"
+    },
+    "38995": {
+      "assignees": [
+        "shivam-dhir"
+      ],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2018-11-13T12:41:34Z",
+      "days_idle": 308,
+      "labels": [
+        "enhancement",
+        "clang-format",
+        "bugzilla",
+        "objective-c"
+      ],
+      "notified_stale": false,
+      "number": 38995,
+      "prs": {},
+      "status": "stale",
+      "title": "SortIncludes should support \"@import\" lines in Objective-C",
+      "updated_at": "2026-01-24T03:34:21Z",
+      "url": "https://github.com/llvm/llvm-project/issues/38995"
+    },
+    "39145": {
+      "assignees": [
+        "curiouserrandy"
+      ],
+      "comment_claimed_by": "curiouserrandy",
+      "created_at": "2018-11-27T01:37:34Z",
+      "days_idle": 1081,
+      "labels": [
+        "lldb",
+        "wrong-debug",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 39145,
+      "prs": {},
+      "status": "stale",
+      "title": "DWARF parser: <DW_OP_piece for offset 4 but top of stack is of size 8>",
+      "updated_at": "2023-12-11T18:12:37Z",
+      "url": "https://github.com/llvm/llvm-project/issues/39145"
+    },
+    "39524": {
+      "assignees": [
+        "Susikrishna"
+      ],
+      "comment_claimed_by": "Susikrishna",
+      "created_at": "2018-12-28T21:19:49Z",
+      "days_idle": 388,
+      "labels": [
+        "c",
+        "bugzilla",
+        "clang:diagnostics",
+        "confirmed"
+      ],
+      "notified_stale": false,
+      "number": 39524,
+      "prs": {
+        "166332": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "c11: Accepts ill-formed program with inline function definition containing modifiable variable with static storage duration.",
+      "updated_at": "2025-12-11T05:17:37Z",
+      "url": "https://github.com/llvm/llvm-project/issues/39524"
+    },
+    "39721": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2019-01-18T18:27:37Z",
+      "days_idle": 1,
+      "labels": [
+        "bugzilla",
+        "clang:diagnostics",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 39721,
+      "prs": {},
+      "status": "active",
+      "title": "AttributedStatement not correctly handled with -Wunreachable-code",
+      "updated_at": "2026-11-25T04:59:09Z",
+      "url": "https://github.com/llvm/llvm-project/issues/39721"
+    },
+    "40511": {
+      "assignees": [],
+      "comment_claimed_by": "Harrish92",
+      "created_at": "2019-03-21T03:16:27Z",
+      "days_idle": 284,
+      "labels": [
+        "clang-tidy",
+        "bugzilla",
+        "check-request"
+      ],
+      "notified_stale": false,
+      "number": 40511,
+      "prs": {
+        "182823": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Create bugprone-printf-array check",
+      "updated_at": "2026-02-15T07:32:02Z",
+      "url": "https://github.com/llvm/llvm-project/issues/40511"
+    },
+    "42112": {
+      "assignees": [
+        "seranu"
+      ],
+      "comment_claimed_by": "hdsatam",
+      "created_at": "2019-07-25T23:45:56Z",
+      "days_idle": 145,
+      "labels": [
+        "enhancement",
+        "clang-format",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 42112,
+      "prs": {
+        "77918": "CLOSED",
+        "78108": "CLOSED",
+        "78957": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "add newline between include and namespace",
+      "updated_at": "2026-07-03T21:26:35Z",
+      "url": "https://github.com/llvm/llvm-project/issues/42112"
+    },
+    "42113": {
+      "assignees": [],
+      "comment_claimed_by": "hdsatam",
+      "created_at": "2019-07-25T23:54:01Z",
+      "days_idle": 145,
+      "labels": [
+        "enhancement",
+        "clang-format",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 42113,
+      "prs": {},
+      "status": "stale",
+      "title": "recognize aligned case statements",
+      "updated_at": "2026-07-04T02:29:06Z",
+      "url": "https://github.com/llvm/llvm-project/issues/42113"
+    },
+    "43453": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2019-11-21T23:44:48Z",
+      "days_idle": 308,
+      "labels": [
+        "enhancement",
+        "clang:static analyzer",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 43453,
+      "prs": {
+        "75472": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Create a check that warns about using %p printf specifier",
+      "updated_at": "2026-01-22T15:47:48Z",
+      "url": "https://github.com/llvm/llvm-project/issues/43453"
+    },
+    "47285": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2020-10-22T04:34:25Z",
+      "days_idle": 192,
+      "labels": [
+        "bugzilla",
+        "concepts",
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 47285,
+      "prs": {},
+      "status": "stale",
+      "title": "\"this requires expression will only be checked for syntactic validity\" suggests bad fixit, is not emitted on equally dangerous code",
+      "updated_at": "2026-05-17T20:55:30Z",
+      "url": "https://github.com/llvm/llvm-project/issues/47285"
+    },
+    "48977": {
+      "assignees": [
+        "serberoth"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2021-03-18T18:09:15Z",
+      "days_idle": 679,
+      "labels": [
+        "c++17",
+        "bugzilla",
+        "clang:diagnostics",
+        "confirmed"
+      ],
+      "notified_stale": false,
+      "number": 48977,
+      "prs": {
+        "136019": "MERGED"
+      },
+      "status": "stale",
+      "title": "We should probably warn at how 'static inline' variables are odd at namespace scope.",
+      "updated_at": "2025-01-16T16:46:43Z",
+      "url": "https://github.com/llvm/llvm-project/issues/48977"
+    },
+    "50033": {
+      "assignees": [
+        "511f4a7d-587a-442f-a387-2e7710d2d094"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2021-06-12T01:07:02Z",
+      "days_idle": 1198,
+      "labels": [
+        "lld",
+        "lld:MachO",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 50033,
+      "prs": {},
+      "status": "stale",
+      "title": "Finish / clean up MapFile implementation",
+      "updated_at": "2023-08-16T12:17:56Z",
+      "url": "https://github.com/llvm/llvm-project/issues/50033"
+    },
+    "50308": {
+      "assignees": [],
+      "comment_claimed_by": "KMSstudio",
+      "created_at": "2021-07-02T09:07:33Z",
+      "days_idle": 5,
+      "labels": [
+        "bugzilla",
+        "llvm:optimizations",
+        "missed-optimization",
+        "llvm:codesize"
+      ],
+      "notified_stale": false,
+      "number": 50308,
+      "prs": {
+        "82828": "MERGED"
+      },
+      "status": "active",
+      "title": "Trivial memset optimization not applied to loops under -Oz (LoopIdiomRecognize)",
+      "updated_at": "2026-11-21T00:31:45Z",
+      "url": "https://github.com/llvm/llvm-project/issues/50308"
+    },
+    "51649": {
+      "assignees": [
+        "aartbik",
+        "pranav-kumar-hex"
+      ],
+      "comment_claimed_by": "pranav-kumar-hex",
+      "created_at": "2021-10-25T23:27:53Z",
+      "days_idle": 584,
+      "labels": [
+        "mlir:llvm",
+        "bugzilla",
+        "mlir:sparsetensor"
+      ],
+      "notified_stale": false,
+      "number": 51649,
+      "prs": {},
+      "status": "stale",
+      "title": "Enhance our tests for sparse kernels (medium level, independent, starter)",
+      "updated_at": "2025-04-21T16:29:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/51649"
+    },
+    "51650": {
+      "assignees": [
+        "solo-daemon"
+      ],
+      "comment_claimed_by": "solo-daemon",
+      "created_at": "2021-10-25T23:40:56Z",
+      "days_idle": 854,
+      "labels": [
+        "mlir:llvm",
+        "bugzilla",
+        "mlir:sparsetensor",
+        "confirmed"
+      ],
+      "notified_stale": false,
+      "number": 51650,
+      "prs": {},
+      "status": "stale",
+      "title": "Implement sparse kernel benchmarks (moderate level, independent, starter)",
+      "updated_at": "2024-07-25T18:14:11Z",
+      "url": "https://github.com/llvm/llvm-project/issues/51650"
+    },
+    "51651": {
+      "assignees": [
+        "aartbik"
+      ],
+      "comment_claimed_by": "gmalasan",
+      "created_at": "2021-10-25T23:46:53Z",
+      "days_idle": 530,
+      "labels": [
+        "bugzilla",
+        "mlir:tensor"
+      ],
+      "notified_stale": false,
+      "number": 51651,
+      "prs": {
+        "151885": "CLOSED"
+      },
+      "status": "stale",
+      "title": "Implement strategy for loop ordering choice (true compiler starter)",
+      "updated_at": "2025-06-14T05:48:38Z",
+      "url": "https://github.com/llvm/llvm-project/issues/51651"
+    },
+    "51657": {
+      "assignees": [
+        "aartbik"
+      ],
+      "comment_claimed_by": "aditya-167",
+      "created_at": "2021-10-26T00:23:33Z",
+      "days_idle": 558,
+      "labels": [
+        "mlir:llvm",
+        "bugzilla",
+        "mlir:sparsetensor"
+      ],
+      "notified_stale": false,
+      "number": 51657,
+      "prs": {},
+      "status": "stale",
+      "title": "Implement more Python DSL-based \"exhaustive\" sparse kernel generators (easy starter)",
+      "updated_at": "2025-05-17T10:50:18Z",
+      "url": "https://github.com/llvm/llvm-project/issues/51657"
+    },
+    "51660": {
+      "assignees": [
+        "aartbik"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2021-10-26T00:37:24Z",
+      "days_idle": 254,
+      "labels": [
+        "mlir:llvm",
+        "bugzilla",
+        "mlir:sparsetensor"
+      ],
+      "notified_stale": false,
+      "number": 51660,
+      "prs": {},
+      "status": "stale",
+      "title": "Implement non-unit stride dense vectorization (difficult starter)",
+      "updated_at": "2026-03-17T16:07:33Z",
+      "url": "https://github.com/llvm/llvm-project/issues/51660"
+    },
+    "51787": {
+      "assignees": [],
+      "comment_claimed_by": "saideepaksana",
+      "created_at": "2021-11-09T11:40:15Z",
+      "days_idle": 386,
+      "labels": [
+        "c",
+        "clang:frontend",
+        "bugzilla",
+        "c++26",
+        "extension:clang",
+        "constexpr"
+      ],
+      "notified_stale": false,
+      "number": 51787,
+      "prs": {
+        "113020": "CLOSED",
+        "116243": "MERGED",
+        "116626": "MERGED",
+        "116822": "MERGED",
+        "116976": "MERGED",
+        "117473": "MERGED",
+        "118177": "MERGED",
+        "119082": "MERGED",
+        "120866": "MERGED",
+        "152294": "MERGED"
+      },
+      "status": "stale",
+      "title": "[Clang] Support elementwise/reduction builtins in constexpr contexts.",
+      "updated_at": "2026-03-16T12:32:17Z",
+      "url": "https://github.com/llvm/llvm-project/issues/51787"
+    },
+    "51923": {
+      "assignees": [
+        "Panadulek"
+      ],
+      "comment_claimed_by": "sangam151",
+      "created_at": "2021-11-22T17:10:34Z",
+      "days_idle": 84,
+      "labels": [
+        "backend:X86",
+        "bugzilla"
+      ],
+      "notified_stale": false,
+      "number": 51923,
+      "prs": {
+        "199416": "OPEN",
+        "242823": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[X86][SSE] Improve ISD::FP_TO_*INT_SAT vector lowering",
+      "updated_at": "2026-09-03T16:24:00Z",
+      "url": "https://github.com/llvm/llvm-project/issues/51923"
+    },
+    "52935": {
+      "assignees": [],
+      "comment_claimed_by": "YShamili",
+      "created_at": "2021-12-30T23:16:52Z",
+      "days_idle": 32,
+      "labels": [
+        "clang-format",
+        "javascript"
+      ],
+      "notified_stale": false,
+      "number": 52935,
+      "prs": {
+        "211347": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "JavaScriptWrapImports:false doesn't work with ColumnLimit:0",
+      "updated_at": "2026-10-25T05:26:51Z",
+      "url": "https://github.com/llvm/llvm-project/issues/52935"
+    },
+    "53740": {
+      "assignees": [
+        "shivam-dhir"
+      ],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2022-02-11T01:58:57Z",
+      "days_idle": 308,
+      "labels": [
+        "clang-format",
+        "objective-c"
+      ],
+      "notified_stale": false,
+      "number": 53740,
+      "prs": {
+        "1420": "MERGED"
+      },
+      "status": "stale",
+      "title": "Add equivalent of LambdaBodyIndentation for ObjC blocks",
+      "updated_at": "2026-01-22T07:01:35Z",
+      "url": "https://github.com/llvm/llvm-project/issues/53740"
+    },
+    "55026": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2022-04-21T21:30:28Z",
+      "days_idle": 308,
+      "labels": [
+        "enhancement",
+        "clang-tidy"
+      ],
+      "notified_stale": false,
+      "number": 55026,
+      "prs": {
+        "190590": "OPEN",
+        "71304": "CLOSED"
+      },
+      "status": "in_progress",
+      "title": "clang-tidy check readability-container-data-pointer fix isn't configurable to use std::string::c_str() instead of data()",
+      "updated_at": "2026-01-22T06:36:46Z",
+      "url": "https://github.com/llvm/llvm-project/issues/55026"
+    },
+    "55681": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2022-05-24T19:09:44Z",
+      "days_idle": 308,
+      "labels": [
+        "orcjit"
+      ],
+      "notified_stale": false,
+      "number": 55681,
+      "prs": {
+        "212260": "MERGED",
+        "243236": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Check for `__unw_add_dynamic_eh_frame_section` in non-ORC-runtime exception registration paths.",
+      "updated_at": "2026-01-22T06:36:35Z",
+      "url": "https://github.com/llvm/llvm-project/issues/55681"
+    },
+    "56009": {
+      "assignees": [
+        "huangperry"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2022-06-13T07:17:11Z",
+      "days_idle": 543,
+      "labels": [
+        "clang-tidy",
+        "false-negative"
+      ],
+      "notified_stale": false,
+      "number": 56009,
+      "prs": {},
+      "status": "stale",
+      "title": "clang-tidy: readability-implicit-bool-conversion not working with std::optional",
+      "updated_at": "2026-08-25T13:04:59Z",
+      "url": "https://github.com/llvm/llvm-project/issues/56009"
+    },
+    "57255": {
+      "assignees": [
+        "gxyd"
+      ],
+      "comment_claimed_by": "tetsuo-cpp",
+      "created_at": "2022-08-19T22:25:58Z",
+      "days_idle": 39,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 57255,
+      "prs": {
+        "69892": "CLOSED"
+      },
+      "status": "stale",
+      "title": "Suboptimal instruction sequence when operands are reordered",
+      "updated_at": "2026-10-18T15:50:06Z",
+      "url": "https://github.com/llvm/llvm-project/issues/57255"
+    },
+    "58276": {
+      "assignees": [],
+      "comment_claimed_by": "dineshtavva23",
+      "created_at": "2022-10-10T23:50:08Z",
+      "days_idle": 37,
+      "labels": [
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 58276,
+      "prs": {},
+      "status": "stale",
+      "title": "Unrelated errors introduce additional runtime diagnostics by skipping CFG construction",
+      "updated_at": "2026-10-20T16:47:02Z",
+      "url": "https://github.com/llvm/llvm-project/issues/58276"
+    },
+    "58710": {
+      "assignees": [
+        "bhanuponguru"
+      ],
+      "comment_claimed_by": "bhanuponguru",
+      "created_at": "2022-10-31T19:22:15Z",
+      "days_idle": 385,
+      "labels": [
+        "clang-format"
+      ],
+      "notified_stale": false,
+      "number": 58710,
+      "prs": {
+        "102894": "CLOSED",
+        "167146": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Feature Request: Add clang-format setting to disable \"*\" being added when ReflowComments is used with /* */ comments",
+      "updated_at": "2025-11-08T21:03:50Z",
+      "url": "https://github.com/llvm/llvm-project/issues/58710"
+    },
+    "59471": {
+      "assignees": [
+        "epilk",
+        "kzhuravl"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2022-12-12T13:54:55Z",
+      "days_idle": 604,
+      "labels": [
+        "debuginfo",
+        "crash"
+      ],
+      "notified_stale": false,
+      "number": 59471,
+      "prs": {},
+      "status": "stale",
+      "title": "a missing `type` field in `DISubprogram` does not give a warning but a Segmentation fault",
+      "updated_at": "2025-04-01T14:02:58Z",
+      "url": "https://github.com/llvm/llvm-project/issues/59471"
+    },
+    "59922": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2023-01-11T07:14:21Z",
+      "days_idle": 40,
+      "labels": [
+        "clang:frontend",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 59922,
+      "prs": {
+        "232902": "CLOSED"
+      },
+      "status": "stale",
+      "title": "Copy elision when initializing a base class subobject",
+      "updated_at": "2026-10-16T19:17:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/59922"
+    },
+    "61157": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2023-03-03T15:02:03Z",
+      "days_idle": 38,
+      "labels": [
+        "clang:tooling"
+      ],
+      "notified_stale": false,
+      "number": 61157,
+      "prs": {},
+      "status": "stale",
+      "title": "[clang][ExtractAPI] Declaration fragments should show types as shown in the source code.",
+      "updated_at": "2026-10-19T07:38:20Z",
+      "url": "https://github.com/llvm/llvm-project/issues/61157"
+    },
+    "63178": {
+      "assignees": [
+        "maximeplante"
+      ],
+      "comment_claimed_by": "cchung100m",
+      "created_at": "2023-06-07T22:50:43Z",
+      "days_idle": 532,
+      "labels": [
+        "tools:llvm-symbolizer"
+      ],
+      "notified_stale": false,
+      "number": 63178,
+      "prs": {},
+      "status": "stale",
+      "title": "llvm-symbolizer  --markup-filter does not adjust addresses without debug info",
+      "updated_at": "2025-06-11T20:34:29Z",
+      "url": "https://github.com/llvm/llvm-project/issues/63178"
+    },
+    "63236": {
+      "assignees": [],
+      "comment_claimed_by": "lhames",
+      "created_at": "2023-06-10T12:24:38Z",
+      "days_idle": 228,
+      "labels": [
+        "orcjit",
+        "julialang"
+      ],
+      "notified_stale": false,
+      "number": 63236,
+      "prs": {
+        "49745": "MERGED",
+        "54841": "MERGED",
+        "60105": "MERGED",
+        "61418": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "orc::InProcessMemoryMapper makes too many memory mappings",
+      "updated_at": "2026-04-12T16:37:39Z",
+      "url": "https://github.com/llvm/llvm-project/issues/63236"
+    },
+    "64441": {
+      "assignees": [
+        "oyiekeallen"
+      ],
+      "comment_claimed_by": "jeevanghimire",
+      "created_at": "2023-08-04T19:51:28Z",
+      "days_idle": 86,
+      "labels": [
+        "clang-tidy",
+        "check-request"
+      ],
+      "notified_stale": false,
+      "number": 64441,
+      "prs": {
+        "70621": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "clang-tidy: fully qualify names from a given namespace (e.g. clean up `using namespace std;`)",
+      "updated_at": "2026-09-01T17:20:27Z",
+      "url": "https://github.com/llvm/llvm-project/issues/64441"
+    },
+    "64677": {
+      "assignees": [
+        "Sh0g0-1758",
+        "salekinsirajus"
+      ],
+      "comment_claimed_by": "arsenm",
+      "created_at": "2023-08-14T12:21:29Z",
+      "days_idle": 909,
+      "labels": [
+        "llvm:codegen",
+        "llvm:optimizations",
+        "platform:linux",
+        "floating-point"
+      ],
+      "notified_stale": false,
+      "number": 64677,
+      "prs": {
+        "106550": "MERGED"
+      },
+      "status": "stale",
+      "title": "Enable exp10 libcall recognition on linux",
+      "updated_at": "2024-05-30T21:40:51Z",
+      "url": "https://github.com/llvm/llvm-project/issues/64677"
+    },
+    "68213": {
+      "assignees": [],
+      "comment_claimed_by": "israbbani",
+      "created_at": "2023-10-04T12:24:52Z",
+      "days_idle": 3,
+      "labels": [
+        "help wanted",
+        "clang-include-cleaner"
+      ],
+      "notified_stale": false,
+      "number": 68213,
+      "prs": {
+        "1033": "MERGED",
+        "205719": "OPEN",
+        "48": "MERGED"
+      },
+      "status": "in_progress",
+      "title": "clang-include-cleaner - replaces chrono with bits/chrono",
+      "updated_at": "2026-11-23T18:13:06Z",
+      "url": "https://github.com/llvm/llvm-project/issues/68213"
+    },
+    "71675": {
+      "assignees": [
+        "maramatias"
+      ],
+      "comment_claimed_by": "tbaederr",
+      "created_at": "2023-11-08T13:27:06Z",
+      "days_idle": 527,
+      "labels": [
+        "clang:diagnostics",
+        "confirmed"
+      ],
+      "notified_stale": false,
+      "number": 71675,
+      "prs": {
+        "145053": "OPEN",
+        "211785": "OPEN",
+        "74852": "OPEN",
+        "75902": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang] Avoid printing overly large integer/_BitInt numbers in static assertion failure diagnostics",
+      "updated_at": "2025-06-17T04:23:56Z",
+      "url": "https://github.com/llvm/llvm-project/issues/71675"
+    },
+    "72640": {
+      "assignees": [],
+      "comment_claimed_by": "kulkarni-aditya-01",
+      "created_at": "2023-11-17T11:53:46Z",
+      "days_idle": 29,
+      "labels": [
+        "backend:X86",
+        "missed-optimization",
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 72640,
+      "prs": {},
+      "status": "stale",
+      "title": "Loading/storing an 8 aligned i128 uses two `movq` instead of a single `movups`",
+      "updated_at": "2026-10-28T14:22:03Z",
+      "url": "https://github.com/llvm/llvm-project/issues/72640"
+    },
+    "73399": {
+      "assignees": [
+        "cjdb",
+        "noumanamir-10xe"
+      ],
+      "comment_claimed_by": "noumanamir-10xe",
+      "created_at": "2023-11-25T19:56:50Z",
+      "days_idle": 1095,
+      "labels": [
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 73399,
+      "prs": {
+        "82109": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Simplify initialisation diagnostic when types are cv-qualified",
+      "updated_at": "2023-11-27T07:53:58Z",
+      "url": "https://github.com/llvm/llvm-project/issues/73399"
+    },
+    "75685": {
+      "assignees": [
+        "maxjtwelftree"
+      ],
+      "comment_claimed_by": "cjdb",
+      "created_at": "2023-12-16T05:02:53Z",
+      "days_idle": 1058,
+      "labels": [
+        "enhancement",
+        "clang-tidy"
+      ],
+      "notified_stale": false,
+      "number": 75685,
+      "prs": {
+        "107711": "MERGED"
+      },
+      "status": "stale",
+      "title": "`bugprone-dangling-handle.HandleClasses` should update its defaults",
+      "updated_at": "2024-01-03T05:56:55Z",
+      "url": "https://github.com/llvm/llvm-project/issues/75685"
+    },
+    "75754": {
+      "assignees": [
+        "komalverma04"
+      ],
+      "comment_claimed_by": "komalverma04",
+      "created_at": "2023-12-17T22:57:48Z",
+      "days_idle": 679,
+      "labels": [
+        "clang-query",
+        "clang:frontend",
+        "confirmed"
+      ],
+      "notified_stale": false,
+      "number": 75754,
+      "prs": {
+        "87268": "CLOSED",
+        "89509": "OPEN",
+        "89553": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "hasAnyArgument() spuriously ignores match",
+      "updated_at": "2025-01-16T17:23:13Z",
+      "url": "https://github.com/llvm/llvm-project/issues/75754"
+    },
+    "76438": {
+      "assignees": [
+        "Ayushpdx05"
+      ],
+      "comment_claimed_by": "iamaayushrivastava",
+      "created_at": "2023-12-27T12:48:47Z",
+      "days_idle": 191,
+      "labels": [
+        "llvm:optimizations",
+        "missed-optimization",
+        "floating-point"
+      ],
+      "notified_stale": false,
+      "number": 76438,
+      "prs": {
+        "107107": "MERGED"
+      },
+      "status": "stale",
+      "title": "basic properties of floor and ceiling function",
+      "updated_at": "2026-05-19T16:55:38Z",
+      "url": "https://github.com/llvm/llvm-project/issues/76438"
+    },
+    "76839": {
+      "assignees": [
+        "zjaffal"
+      ],
+      "comment_claimed_by": "sai5612",
+      "created_at": "2024-01-03T18:19:44Z",
+      "days_idle": 141,
+      "labels": [
+        "enhancement",
+        "mlir:presburger"
+      ],
+      "notified_stale": false,
+      "number": 76839,
+      "prs": {},
+      "status": "stale",
+      "title": "Implement `insertVar` having `Identifier` parameter",
+      "updated_at": "2026-07-08T17:53:30Z",
+      "url": "https://github.com/llvm/llvm-project/issues/76839"
+    },
+    "77170": {
+      "assignees": [
+        "Yuki-cpp"
+      ],
+      "comment_claimed_by": "llvmbot",
+      "created_at": "2024-01-06T02:56:12Z",
+      "days_idle": 265,
+      "labels": [
+        "libc++",
+        "filesystem"
+      ],
+      "notified_stale": false,
+      "number": 77170,
+      "prs": {
+        "215031": "OPEN",
+        "77223": "CLOSED"
+      },
+      "status": "in_progress",
+      "title": "`std::filesystem::canonical(\"\")` should throw",
+      "updated_at": "2026-03-06T12:05:32Z",
+      "url": "https://github.com/llvm/llvm-project/issues/77170"
+    },
+    "82754": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2024-02-23T11:19:43Z",
+      "days_idle": 218,
+      "labels": [
+        "openmp",
+        "clang:openmp"
+      ],
+      "notified_stale": false,
+      "number": 82754,
+      "prs": {
+        "86457": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[OpenMP] Metadirective uses default for non-const user condition",
+      "updated_at": "2026-04-22T14:25:20Z",
+      "url": "https://github.com/llvm/llvm-project/issues/82754"
+    },
+    "83430": {
+      "assignees": [
+        "SahilPatidar"
+      ],
+      "comment_claimed_by": "iamaayushrivastava",
+      "created_at": "2024-02-29T14:21:13Z",
+      "days_idle": 378,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 83430,
+      "prs": {
+        "83563": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[InstCombine] Missed optimization: fail to fold `(A >> C1) Pred C2` if `shr` is used multiple times",
+      "updated_at": "2025-11-13T03:04:27Z",
+      "url": "https://github.com/llvm/llvm-project/issues/83430"
+    },
+    "84213": {
+      "assignees": [
+        "Mabwas"
+      ],
+      "comment_claimed_by": "Mabwas",
+      "created_at": "2024-03-06T17:55:29Z",
+      "days_idle": 767,
+      "labels": [
+        "llvm:support"
+      ],
+      "notified_stale": false,
+      "number": 84213,
+      "prs": {},
+      "status": "stale",
+      "title": "[Support] Investigate making KnownBits saturated add/sub implementations optimal ",
+      "updated_at": "2024-10-20T15:56:25Z",
+      "url": "https://github.com/llvm/llvm-project/issues/84213"
+    },
+    "84940": {
+      "assignees": [
+        "RKSimon"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2024-03-12T16:14:59Z",
+      "days_idle": 977,
+      "labels": [
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 84940,
+      "prs": {
+        "190215": "MERGED",
+        "86435": "CLOSED"
+      },
+      "status": "stale",
+      "title": "[DAG] SDPatternMatch - add m_BinOp/m_c_BinOp variants driven by TLI.isBinOp/isCommutativeBinOp",
+      "updated_at": "2026-04-02T16:59:40Z",
+      "url": "https://github.com/llvm/llvm-project/issues/84940"
+    },
+    "85241": {
+      "assignees": [
+        "SahilPatidar"
+      ],
+      "comment_claimed_by": "arsenm",
+      "created_at": "2024-03-14T15:23:09Z",
+      "days_idle": 38,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization",
+        "floating-point"
+      ],
+      "notified_stale": false,
+      "number": 85241,
+      "prs": {
+        "231104": "CLOSED",
+        "92512": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "missed fold: (X * 0.0) * constant => X * 0.0",
+      "updated_at": "2026-10-19T18:27:14Z",
+      "url": "https://github.com/llvm/llvm-project/issues/85241"
+    },
+    "85268": {
+      "assignees": [
+        "miguelraz"
+      ],
+      "comment_claimed_by": "c8ef",
+      "created_at": "2024-03-14T17:06:30Z",
+      "days_idle": 824,
+      "labels": [
+        "llvm:codegen",
+        "missed-optimization",
+        "floating-point"
+      ],
+      "notified_stale": false,
+      "number": 85268,
+      "prs": {
+        "3": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "missed fold, sext(fptosi x to i32) => fptosi x to i64",
+      "updated_at": "2024-08-24T14:47:05Z",
+      "url": "https://github.com/llvm/llvm-project/issues/85268"
+    },
+    "86161": {
+      "assignees": [
+        "YanWQ-monad"
+      ],
+      "comment_claimed_by": "iamaayushrivastava",
+      "created_at": "2024-03-21T17:58:05Z",
+      "days_idle": 203,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 86161,
+      "prs": {
+        "86307": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[InstCombine] Missed optimization : fold `switch(rol(a, c))`",
+      "updated_at": "2026-05-06T20:10:19Z",
+      "url": "https://github.com/llvm/llvm-project/issues/86161"
+    },
+    "87497": {
+      "assignees": [
+        "shivam-dhir"
+      ],
+      "comment_claimed_by": "RKSimon",
+      "created_at": "2024-04-03T13:59:30Z",
+      "days_idle": 308,
+      "labels": [
+        "backend:AArch64"
+      ],
+      "notified_stale": false,
+      "number": 87497,
+      "prs": {
+        "167177": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[AArch64] Add SimplifyDemandedVectorEltsForTargetNode support for AArch64ISD::DUPLANE nodes",
+      "updated_at": "2026-01-22T09:42:42Z",
+      "url": "https://github.com/llvm/llvm-project/issues/87497"
+    },
+    "87938": {
+      "assignees": [
+        "doraeneko"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2024-04-07T20:21:45Z",
+      "days_idle": 772,
+      "labels": [
+        "backend:AMDGPU"
+      ],
+      "notified_stale": false,
+      "number": 87938,
+      "prs": {
+        "114721": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[AMDGPU] generates v_cndmask/lshlrev for uniform select between 0 and a power of 2",
+      "updated_at": "2024-10-15T15:13:19Z",
+      "url": "https://github.com/llvm/llvm-project/issues/87938"
+    },
+    "88532": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2024-04-12T16:08:35Z",
+      "days_idle": 79,
+      "labels": [
+        "c++20",
+        "clang:frontend",
+        "confirmed",
+        "crash"
+      ],
+      "notified_stale": false,
+      "number": 88532,
+      "prs": {},
+      "status": "stale",
+      "title": "Access violation at instantiating variable definition 'std::_Is_ranges_input_iter_v...'",
+      "updated_at": "2026-09-08T10:23:19Z",
+      "url": "https://github.com/llvm/llvm-project/issues/88532"
+    },
+    "89400": {
+      "assignees": [],
+      "comment_claimed_by": "shafik",
+      "created_at": "2024-04-19T15:18:21Z",
+      "days_idle": 37,
+      "labels": [
+        "clang:codegen",
+        "crash"
+      ],
+      "notified_stale": false,
+      "number": 89400,
+      "prs": {
+        "231022": "OPEN",
+        "235031": "CLOSED"
+      },
+      "status": "in_progress",
+      "title": "Clang crash on template friend function definition",
+      "updated_at": "2026-10-19T21:20:19Z",
+      "url": "https://github.com/llvm/llvm-project/issues/89400"
+    },
+    "90661": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2024-04-30T20:18:14Z",
+      "days_idle": 308,
+      "labels": [
+        "help wanted",
+        "BOLT"
+      ],
+      "notified_stale": false,
+      "number": 90661,
+      "prs": {
+        "89088": "MERGED",
+        "90724": "CLOSED"
+      },
+      "status": "stale",
+      "title": "[BOLT] Evaluate and speedup discoverFileObjects",
+      "updated_at": "2026-01-22T06:33:32Z",
+      "url": "https://github.com/llvm/llvm-project/issues/90661"
+    },
+    "90714": {
+      "assignees": [
+        "TRIGON01",
+        "dev-the-desai"
+      ],
+      "comment_claimed_by": null,
+      "created_at": "2024-05-01T09:22:43Z",
+      "days_idle": 209,
+      "labels": [
+        "llvm:SelectionDAG"
+      ],
+      "notified_stale": false,
+      "number": 90714,
+      "prs": {
+        "153835": "MERGED",
+        "162407": "CLOSED",
+        "187422": "MERGED"
+      },
+      "status": "stale",
+      "title": "SelectionDAG store merging default implementations are unreasonable",
+      "updated_at": "2026-04-30T20:34:32Z",
+      "url": "https://github.com/llvm/llvm-project/issues/90714"
+    },
+    "91564": {
+      "assignees": [],
+      "comment_claimed_by": "Dash198",
+      "created_at": "2024-05-09T06:42:45Z",
+      "days_idle": 39,
+      "labels": [
+        "clang:frontend",
+        "crash-on-invalid"
+      ],
+      "notified_stale": false,
+      "number": 91564,
+      "prs": {
+        "142278": "OPEN",
+        "235456": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang][C++] Bad error recovery when classes are defined inside template aliases",
+      "updated_at": "2026-10-18T15:49:27Z",
+      "url": "https://github.com/llvm/llvm-project/issues/91564"
+    },
+    "92224": {
+      "assignees": [],
+      "comment_claimed_by": "Thibault-Monnier",
+      "created_at": "2024-05-15T08:16:43Z",
+      "days_idle": 270,
+      "labels": [
+        "clang:frontend"
+      ],
+      "notified_stale": false,
+      "number": 92224,
+      "prs": {
+        "173622": "CLOSED",
+        "89358": "MERGED"
+      },
+      "status": "stale",
+      "title": "[clang] Deduplicate `FinishTemplateArgumentDeduction` helper function in `SemaTemplateDeduction.cpp`.",
+      "updated_at": "2026-02-28T19:11:22Z",
+      "url": "https://github.com/llvm/llvm-project/issues/92224"
+    },
+    "92433": {
+      "assignees": [
+        "jf-botto"
+      ],
+      "comment_claimed_by": "jf-botto",
+      "created_at": "2024-05-16T17:38:35Z",
+      "days_idle": 856,
+      "labels": [
+        "llvm:instcombine",
+        "missed-optimization"
+      ],
+      "notified_stale": false,
+      "number": 92433,
+      "prs": {
+        "101507": "OPEN",
+        "101717": "MERGED",
+        "96645": "CLOSED"
+      },
+      "status": "in_progress",
+      "title": "[InstCombine] Failure to factorize `add`/`sub` and `max`/`min` using distributivity",
+      "updated_at": "2024-07-23T07:46:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/92433"
+    },
+    "93085": {
+      "assignees": [
+        "temyurchenko"
+      ],
+      "comment_claimed_by": "temyurchenko",
+      "created_at": "2024-05-22T18:23:52Z",
+      "days_idle": 17,
+      "labels": [
+        "clang:frontend",
+        "confirmed"
+      ],
+      "notified_stale": false,
+      "number": 93085,
+      "prs": {
+        "93131": "MERGED"
+      },
+      "status": "stale",
+      "title": "-ast-print of an extern-C declaration skips closing semi-colon",
+      "updated_at": "2026-11-10T08:39:06Z",
+      "url": "https://github.com/llvm/llvm-project/issues/93085"
+    },
+    "93288": {
+      "assignees": [],
+      "comment_claimed_by": "shafik",
+      "created_at": "2024-05-24T10:08:02Z",
+      "days_idle": 38,
+      "labels": [
+        "enhancement",
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 93288,
+      "prs": {
+        "235481": "OPEN",
+        "6583": "MERGED",
+        "7164": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Addressing `-Wimplicit-float-conversion` warning might lead to precision loss",
+      "updated_at": "2026-10-18T22:27:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/93288"
+    },
+    "94968": {
+      "assignees": [
+        "Groverkss"
+      ],
+      "comment_claimed_by": "fawdlstty",
+      "created_at": "2024-06-10T12:10:11Z",
+      "days_idle": 814,
+      "labels": [
+        "mlir:transform_dialect"
+      ],
+      "notified_stale": false,
+      "number": 94968,
+      "prs": {
+        "107684": "CLOSED",
+        "107686": "CLOSED",
+        "109582": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[mlir][transform] ApplyToEachResultList does not define STL convenience methods",
+      "updated_at": "2024-09-03T02:15:28Z",
+      "url": "https://github.com/llvm/llvm-project/issues/94968"
+    },
+    "95740": {
+      "assignees": [],
+      "comment_claimed_by": "shafik",
+      "created_at": "2024-06-17T05:53:15Z",
+      "days_idle": 42,
+      "labels": [
+        "clang:frontend",
+        "extension:gnu"
+      ],
+      "notified_stale": false,
+      "number": 95740,
+      "prs": {
+        "243871": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "-fdollar-in-identifiers support lacking behind gcc/tinycc",
+      "updated_at": "2026-10-14T23:52:05Z",
+      "url": "https://github.com/llvm/llvm-project/issues/95740"
+    },
+    "96638": {
+      "assignees": [],
+      "comment_claimed_by": "Harshit2906",
+      "created_at": "2024-06-25T13:40:11Z",
+      "days_idle": 38,
+      "labels": [
+        "quality-of-implementation",
+        "clang:diagnostics"
+      ],
+      "notified_stale": false,
+      "number": 96638,
+      "prs": {
+        "167224": "CLOSED",
+        "232956": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "Optimize `decltype(T{})` to `T` in compiler error messages",
+      "updated_at": "2026-10-19T18:16:58Z",
+      "url": "https://github.com/llvm/llvm-project/issues/96638"
+    },
+    "97087": {
+      "assignees": [],
+      "comment_claimed_by": "shivam-dhir",
+      "created_at": "2024-06-28T17:22:59Z",
+      "days_idle": 308,
+      "labels": [
+        "clang:frontend"
+      ],
+      "notified_stale": false,
+      "number": 97087,
+      "prs": {
+        "166996": "OPEN",
+        "99542": "OPEN"
+      },
+      "status": "in_progress",
+      "title": "[clang] [C++20] Defaulted `operator==` doesn't lookup in using-directive properly",
+      "updated_at": "2026-01-22T06:30:53Z",
+      "url": "https://github.com/llvm/llvm-project/issues/97087"
     }
   },
-  "last_update_id": 76116575
+  "last_scan": "2026-11-26 19:01 UTC"
 }
