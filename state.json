@@ -443,7 +443,7 @@
       ],
       "comment_claimed_by": "sipher-01",
       "created_at": "2026-05-02T15:29:31Z",
-      "days_idle": 98,
+      "days_idle": 99,
       "labels": [
         "backend:X86",
         "llvm:SelectionDAG"
@@ -1306,7 +1306,7 @@
       "assignees": [],
       "comment_claimed_by": "PjDailey11",
       "created_at": "2026-10-28T16:20:36Z",
-      "days_idle": 1,
+      "days_idle": 2,
       "labels": [
         "backend:AMDGPU",
         "llvm:globalisel"
@@ -1697,5 +1697,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-27 20:29 UTC"
+  "last_scan": "2026-11-27 21:30 UTC"
 }
