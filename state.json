@@ -213,7 +213,7 @@
       "assignees": [],
       "comment_claimed_by": "nots1dd",
       "created_at": "2026-03-12T23:01:58Z",
-      "days_idle": 121,
+      "days_idle": 122,
       "labels": [
         "enhancement",
         "c++11",
@@ -507,7 +507,7 @@
       ],
       "comment_claimed_by": "SreshthTiwari",
       "created_at": "2026-06-03T11:44:58Z",
-      "days_idle": 116,
+      "days_idle": 117,
       "labels": [
         "llvm:instcombine",
         "missed-optimization"
@@ -755,7 +755,7 @@
       "assignees": [],
       "comment_claimed_by": "sangam151",
       "created_at": "2026-08-19T15:54:53Z",
-      "days_idle": 84,
+      "days_idle": 85,
       "labels": [
         "clang-tidy",
         "confirmed",
@@ -795,7 +795,7 @@
       "assignees": [],
       "comment_claimed_by": "Sukumarsawant",
       "created_at": "2026-09-07T18:50:29Z",
-      "days_idle": 73,
+      "days_idle": 74,
       "labels": [
         "metaissue",
         "libc",
@@ -1513,7 +1513,7 @@
       "assignees": [],
       "comment_claimed_by": "Andarwinux",
       "created_at": "2026-11-17T13:01:41Z",
-      "days_idle": 9,
+      "days_idle": 10,
       "labels": [
         "enhancement",
         "clang:frontend"
@@ -1612,7 +1612,7 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-11-26T12:23:41Z",
-      "days_idle": 0,
+      "days_idle": 1,
       "labels": [
         "backend:X86",
         "backend:X86 Scheduler+Cost Models",
@@ -1629,5 +1629,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246331"
     }
   },
-  "last_scan": "2026-11-27 12:33 UTC"
+  "last_scan": "2026-11-27 13:53 UTC"
 }
