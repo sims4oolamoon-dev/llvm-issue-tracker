@@ -40,6 +40,26 @@
       "updated_at": "2026-04-26T03:16:16Z",
       "url": "https://github.com/llvm/llvm-project/issues/174214"
     },
+    "174514": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-01-06T01:38:52Z",
+      "days_idle": 0,
+      "labels": [
+        "clang:frontend",
+        "lambda",
+        "constexpr",
+        "diverges-from:gcc",
+        "need-regression-test"
+      ],
+      "notified_stale": false,
+      "number": 174514,
+      "prs": {},
+      "status": "active",
+      "title": "Presence of trailing return type in generic lambda defined within function template disables constexpr operator()",
+      "updated_at": "2026-11-27T16:26:48Z",
+      "url": "https://github.com/llvm/llvm-project/issues/174514"
+    },
     "175934": {
       "assignees": [],
       "comment_claimed_by": "shafik",
@@ -150,7 +170,7 @@
       "assignees": [],
       "comment_claimed_by": "shivachethanhalamane",
       "created_at": "2026-02-05T22:24:15Z",
-      "days_idle": 32,
+      "days_idle": 33,
       "labels": [
         "clang:frontend"
       ],
@@ -944,7 +964,7 @@
       ],
       "comment_claimed_by": "adiroy28852",
       "created_at": "2026-09-29T19:07:19Z",
-      "days_idle": 43,
+      "days_idle": 44,
       "labels": [
         "backend:PowerPC"
       ],
@@ -1454,7 +1474,7 @@
       ],
       "comment_claimed_by": "anshithayeruva",
       "created_at": "2026-11-12T06:22:31Z",
-      "days_idle": 12,
+      "days_idle": 13,
       "labels": [
         "backend:X86",
         "missed-optimization",
@@ -1534,7 +1554,7 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-11-26T10:13:54Z",
-      "days_idle": 0,
+      "days_idle": 1,
       "labels": [
         "test-suite",
         "backend:X86",
@@ -1564,8 +1584,10 @@
       ],
       "notified_stale": false,
       "number": 246300,
-      "prs": {},
-      "status": "active",
+      "prs": {
+        "246691": "OPEN"
+      },
+      "status": "in_progress",
       "title": "[llvm-mca][x86] Add missing avxneconvert instructions tests",
       "updated_at": "2026-11-26T16:23:04Z",
       "url": "https://github.com/llvm/llvm-project/issues/246300"
@@ -1631,7 +1653,9 @@
       "url": "https://github.com/llvm/llvm-project/issues/246331"
     },
     "246658": {
-      "assignees": [],
+      "assignees": [
+        "tribhu05"
+      ],
       "comment_claimed_by": "tribhu05",
       "created_at": "2026-11-27T14:09:22Z",
       "days_idle": 0,
@@ -1645,7 +1669,7 @@
       "prs": {},
       "status": "active",
       "title": "[llvm-mca][x86] Add missing MOVDIRI / MOVDIR64B instructions tests",
-      "updated_at": "2026-11-27T15:48:55Z",
+      "updated_at": "2026-11-27T16:08:13Z",
       "url": "https://github.com/llvm/llvm-project/issues/246658"
     },
     "246669": {
@@ -1669,5 +1693,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-27 16:01 UTC"
+  "last_scan": "2026-11-27 17:09 UTC"
 }
