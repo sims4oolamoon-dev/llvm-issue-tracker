@@ -571,7 +571,7 @@
       ],
       "comment_claimed_by": null,
       "created_at": "2026-06-20T19:12:40Z",
-      "days_idle": 156,
+      "days_idle": 157,
       "labels": [
         "llvm:instcombine",
         "missed-optimization"
@@ -674,7 +674,7 @@
       "assignees": [],
       "comment_claimed_by": "ankit-cybertron",
       "created_at": "2026-07-29T03:55:32Z",
-      "days_idle": 73,
+      "days_idle": 74,
       "labels": [],
       "notified_stale": false,
       "number": 212675,
@@ -717,7 +717,7 @@
       ],
       "comment_claimed_by": "plasmavolt",
       "created_at": "2026-08-13T14:49:09Z",
-      "days_idle": 15,
+      "days_idle": 16,
       "labels": [
         "backend:X86",
         "missed-optimization"
@@ -1167,7 +1167,7 @@
       ],
       "comment_claimed_by": "competitive-programmer04",
       "created_at": "2026-10-28T15:10:04Z",
-      "days_idle": 0,
+      "days_idle": 1,
       "labels": [
         "backend:AMDGPU",
         "llvm:globalisel"
@@ -1408,7 +1408,7 @@
       ],
       "comment_claimed_by": "0xPaarth",
       "created_at": "2026-11-09T00:45:33Z",
-      "days_idle": 9,
+      "days_idle": 10,
       "labels": [
         "backend:X86",
         "missed-optimization",
@@ -1651,5 +1651,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246331"
     }
   },
-  "last_scan": "2026-11-27 04:02 UTC"
+  "last_scan": "2026-11-27 05:10 UTC"
 }
