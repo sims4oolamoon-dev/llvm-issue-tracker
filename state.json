@@ -88,7 +88,7 @@
       ],
       "comment_claimed_by": "llvmbot",
       "created_at": "2026-01-16T20:13:10Z",
-      "days_idle": 277,
+      "days_idle": 278,
       "labels": [
         "clang:codegen",
         "HLSL"
@@ -189,7 +189,7 @@
       "assignees": [],
       "comment_claimed_by": "shafik",
       "created_at": "2026-03-04T19:59:34Z",
-      "days_idle": 267,
+      "days_idle": 268,
       "labels": [
         "clang:diagnostics"
       ],
@@ -255,7 +255,7 @@
       "assignees": [],
       "comment_claimed_by": "Ippo47",
       "created_at": "2026-03-20T11:09:05Z",
-      "days_idle": 205,
+      "days_idle": 206,
       "labels": [
         "clang:temporal-safety"
       ],
@@ -713,7 +713,7 @@
       "assignees": [],
       "comment_claimed_by": "linisha15",
       "created_at": "2026-08-01T10:01:53Z",
-      "days_idle": 98,
+      "days_idle": 99,
       "labels": [
         "orcjit",
         "jitlink",
@@ -1697,5 +1697,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-27 22:29 UTC"
+  "last_scan": "2026-11-27 23:26 UTC"
 }
