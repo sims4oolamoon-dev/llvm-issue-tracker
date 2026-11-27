@@ -64,7 +64,7 @@
       "assignees": [],
       "comment_claimed_by": "shafik",
       "created_at": "2026-01-14T12:08:19Z",
-      "days_idle": 59,
+      "days_idle": 60,
       "labels": [
         "clang:frontend",
         "confirmed",
@@ -486,7 +486,7 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-05-16T15:27:12Z",
-      "days_idle": 84,
+      "days_idle": 85,
       "labels": [
         "performance",
         "optimization:AMDCPU"
@@ -1387,7 +1387,7 @@
       "assignees": [],
       "comment_claimed_by": "llvmorg-github-actions",
       "created_at": "2026-10-28T17:50:14Z",
-      "days_idle": 29,
+      "days_idle": 30,
       "labels": [
         "backend:AMDGPU",
         "llvm:globalisel"
@@ -1408,7 +1408,7 @@
       ],
       "comment_claimed_by": "0xPaarth",
       "created_at": "2026-11-08T18:47:28Z",
-      "days_idle": 1,
+      "days_idle": 2,
       "labels": [
         "backend:X86",
         "missed-optimization",
@@ -1686,12 +1686,14 @@
       ],
       "notified_stale": false,
       "number": 246669,
-      "prs": {},
-      "status": "active",
+      "prs": {
+        "246717": "OPEN"
+      },
+      "status": "in_progress",
       "title": "[llvm-mca][x86] Add missing RDPRU / PCONFIG / WBNOINVD instructions tests",
       "updated_at": "2026-11-27T15:48:27Z",
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-27 17:09 UTC"
+  "last_scan": "2026-11-27 18:21 UTC"
 }
