@@ -354,7 +354,7 @@
       "assignees": [],
       "comment_claimed_by": "anuragGupta08",
       "created_at": "2026-04-14T07:12:47Z",
-      "days_idle": 86,
+      "days_idle": 87,
       "labels": [
         "confirmed",
         "crash-on-valid",
@@ -592,7 +592,7 @@
       "assignees": [],
       "comment_claimed_by": "llvmorg-github-actions",
       "created_at": "2026-06-23T11:42:48Z",
-      "days_idle": 0,
+      "days_idle": 1,
       "labels": [
         "c",
         "clang:frontend",
@@ -1428,7 +1428,7 @@
       "assignees": [],
       "comment_claimed_by": "Wet-nat",
       "created_at": "2026-11-11T20:59:48Z",
-      "days_idle": 0,
+      "days_idle": 1,
       "labels": [
         "backend:AMDGPU",
         "ClangIR"
@@ -1440,8 +1440,8 @@
         "242167": "MERGED",
         "243235": "MERGED",
         "243275": "OPEN",
-        "244000": "OPEN",
-        "244656": "OPEN"
+        "244000": "MERGED",
+        "244656": "MERGED"
       },
       "status": "in_progress",
       "title": "[CIR][AMDGPU] Implement the remaining AMDGPU target builtins in CIRGen",
@@ -1651,5 +1651,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246331"
     }
   },
-  "last_scan": "2026-11-27 07:56 UTC"
+  "last_scan": "2026-11-27 09:06 UTC"
 }
