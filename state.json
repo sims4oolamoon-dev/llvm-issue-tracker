@@ -612,9 +612,9 @@
     },
     "205320": {
       "assignees": [],
-      "comment_claimed_by": "llvmorg-github-actions",
+      "comment_claimed_by": "shraavb",
       "created_at": "2026-06-23T11:42:48Z",
-      "days_idle": 1,
+      "days_idle": 0,
       "labels": [
         "c",
         "clang:frontend",
@@ -628,7 +628,7 @@
       "prs": {},
       "status": "active",
       "title": "[Clang] Assertion failure in SemaInit.cpp when parsing variable declaration with empty __asm__ label and parenthesized initializer",
-      "updated_at": "2026-11-26T08:37:39Z",
+      "updated_at": "2026-11-27T22:06:27Z",
       "url": "https://github.com/llvm/llvm-project/issues/205320"
     },
     "205569": {
@@ -1697,5 +1697,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-27 21:30 UTC"
+  "last_scan": "2026-11-27 22:29 UTC"
 }
