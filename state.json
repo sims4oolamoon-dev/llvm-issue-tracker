@@ -110,7 +110,7 @@
       "assignees": [],
       "comment_claimed_by": "Dash198",
       "created_at": "2026-01-22T19:54:24Z",
-      "days_idle": 39,
+      "days_idle": 40,
       "labels": [
         "missed-optimization",
         "floating-point",
@@ -253,7 +253,7 @@
       "assignees": [],
       "comment_claimed_by": "llvmbot",
       "created_at": "2026-03-30T20:57:52Z",
-      "days_idle": 3,
+      "days_idle": 4,
       "labels": [
         "llvm:SelectionDAG"
       ],
@@ -1496,7 +1496,7 @@
       ],
       "comment_claimed_by": "0xPaarth",
       "created_at": "2026-11-17T09:07:39Z",
-      "days_idle": 1,
+      "days_idle": 2,
       "labels": [
         "backend:X86",
         "missed-optimization"
@@ -1574,7 +1574,7 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-11-26T10:23:05Z",
-      "days_idle": 0,
+      "days_idle": 1,
       "labels": [
         "backend:X86",
         "backend:X86 Scheduler+Cost Models"
@@ -1584,7 +1584,7 @@
       "prs": {},
       "status": "active",
       "title": "[llvm-mca][x86] Add missing avx512fp16 instructions tests",
-      "updated_at": "2026-11-26T14:40:00Z",
+      "updated_at": "2026-11-27T14:46:38Z",
       "url": "https://github.com/llvm/llvm-project/issues/246302"
     },
     "246307": {
@@ -1593,7 +1593,7 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-11-26T10:41:50Z",
-      "days_idle": 0,
+      "days_idle": 1,
       "labels": [
         "backend:X86",
         "backend:X86 Scheduler+Cost Models"
@@ -1603,7 +1603,7 @@
       "prs": {},
       "status": "active",
       "title": "[llvm-mca][x86] Add missing sha512 instructions tests",
-      "updated_at": "2026-11-26T14:35:18Z",
+      "updated_at": "2026-11-27T14:46:45Z",
       "url": "https://github.com/llvm/llvm-project/issues/246307"
     },
     "246331": {
@@ -1625,9 +1625,43 @@
       },
       "status": "in_progress",
       "title": "[llvm-mca][x86] Add missing avx512bmm instructions tests",
-      "updated_at": "2026-11-26T13:15:01Z",
+      "updated_at": "2026-11-27T14:46:52Z",
       "url": "https://github.com/llvm/llvm-project/issues/246331"
+    },
+    "246658": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-11-27T14:09:22Z",
+      "days_idle": 0,
+      "labels": [
+        "backend:X86",
+        "backend:X86 Scheduler+Cost Models"
+      ],
+      "notified_stale": false,
+      "number": 246658,
+      "prs": {},
+      "status": "active",
+      "title": "[llvm-mca][x86] Add missing MOVDIRI / MOVDIR64B instructions tests",
+      "updated_at": "2026-11-27T14:47:10Z",
+      "url": "https://github.com/llvm/llvm-project/issues/246658"
+    },
+    "246669": {
+      "assignees": [],
+      "comment_claimed_by": "llvmorg-github-actions",
+      "created_at": "2026-11-27T14:52:46Z",
+      "days_idle": 0,
+      "labels": [
+        "backend:X86",
+        "backend:X86 Scheduler+Cost Models"
+      ],
+      "notified_stale": false,
+      "number": 246669,
+      "prs": {},
+      "status": "active",
+      "title": "[llvm-mca][x86] Add missing RDPRU / PCONFIG / WBNOINVD instructions tests",
+      "updated_at": "2026-11-27T14:53:07Z",
+      "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-27 13:53 UTC"
+  "last_scan": "2026-11-27 14:56 UTC"
 }
