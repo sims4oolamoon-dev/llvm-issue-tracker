@@ -529,7 +529,7 @@
       ],
       "comment_claimed_by": "SreshthTiwari",
       "created_at": "2026-06-03T11:44:58Z",
-      "days_idle": 117,
+      "days_idle": 118,
       "labels": [
         "llvm:instcombine",
         "missed-optimization"
@@ -817,7 +817,7 @@
       "assignees": [],
       "comment_claimed_by": "Sukumarsawant",
       "created_at": "2026-09-07T18:50:29Z",
-      "days_idle": 74,
+      "days_idle": 75,
       "labels": [
         "metaissue",
         "libc",
@@ -1535,7 +1535,7 @@
       "assignees": [],
       "comment_claimed_by": "Andarwinux",
       "created_at": "2026-11-17T13:01:41Z",
-      "days_idle": 10,
+      "days_idle": 11,
       "labels": [
         "enhancement",
         "clang:frontend"
@@ -1638,7 +1638,7 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-11-26T12:23:41Z",
-      "days_idle": 1,
+      "days_idle": 2,
       "labels": [
         "backend:X86",
         "backend:X86 Scheduler+Cost Models",
@@ -1697,5 +1697,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-28 12:24 UTC"
+  "last_scan": "2026-11-28 13:39 UTC"
 }
