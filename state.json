@@ -27,7 +27,7 @@
       ],
       "comment_claimed_by": null,
       "created_at": "2026-01-02T14:27:27Z",
-      "days_idle": 215,
+      "days_idle": 216,
       "labels": [
         "backend:X86",
         "missed-optimization"
@@ -420,7 +420,7 @@
       ],
       "comment_claimed_by": "competitive-programmer04",
       "created_at": "2026-05-02T01:52:27Z",
-      "days_idle": 24,
+      "days_idle": 25,
       "labels": [
         "libc"
       ],
@@ -756,7 +756,7 @@
       "assignees": [],
       "comment_claimed_by": "Asterisk117",
       "created_at": "2026-08-13T17:35:47Z",
-      "days_idle": 31,
+      "days_idle": 32,
       "labels": [
         "llvm:instcombine",
         "missed-optimization"
@@ -837,7 +837,7 @@
       "assignees": [],
       "comment_claimed_by": "adiroy28852",
       "created_at": "2026-09-11T21:17:47Z",
-      "days_idle": 49,
+      "days_idle": 50,
       "labels": [
         "clang:frontend",
         "rejects-valid",
@@ -902,7 +902,7 @@
       "assignees": [],
       "comment_claimed_by": "adiroy28852",
       "created_at": "2026-09-18T14:34:46Z",
-      "days_idle": 53,
+      "days_idle": 54,
       "labels": [
         "backend:AArch64",
         "debuginfo",
@@ -1496,7 +1496,7 @@
       "assignees": [],
       "comment_claimed_by": "metp",
       "created_at": "2026-11-15T15:03:48Z",
-      "days_idle": 11,
+      "days_idle": 12,
       "labels": [
         "clang:frontend",
         "confirmed"
@@ -1697,5 +1697,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-28 02:53 UTC"
+  "last_scan": "2026-11-28 03:57 UTC"
 }
