@@ -130,7 +130,7 @@
       "assignees": [],
       "comment_claimed_by": "Dash198",
       "created_at": "2026-01-22T19:54:24Z",
-      "days_idle": 40,
+      "days_idle": 41,
       "labels": [
         "missed-optimization",
         "floating-point",
@@ -233,7 +233,7 @@
       "assignees": [],
       "comment_claimed_by": "nots1dd",
       "created_at": "2026-03-12T23:01:58Z",
-      "days_idle": 122,
+      "days_idle": 123,
       "labels": [
         "enhancement",
         "c++11",
@@ -777,7 +777,7 @@
       "assignees": [],
       "comment_claimed_by": "sangam151",
       "created_at": "2026-08-19T15:54:53Z",
-      "days_idle": 85,
+      "days_idle": 86,
       "labels": [
         "clang-tidy",
         "confirmed",
@@ -1556,10 +1556,11 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-11-26T10:13:54Z",
-      "days_idle": 1,
+      "days_idle": 0,
       "labels": [
         "test-suite",
         "backend:X86",
+        "tools:llvm-mca",
         "backend:X86 Scheduler+Cost Models"
       ],
       "notified_stale": false,
@@ -1569,7 +1570,7 @@
       },
       "status": "in_progress",
       "title": "[llvm-mca][x86] Add missing avxvnniint8/16 instructions tests",
-      "updated_at": "2026-11-26T16:28:22Z",
+      "updated_at": "2026-11-28T14:35:52Z",
       "url": "https://github.com/llvm/llvm-project/issues/246298"
     },
     "246300": {
@@ -1578,10 +1579,11 @@
       ],
       "comment_claimed_by": "competitive-programmer04",
       "created_at": "2026-11-26T10:18:55Z",
-      "days_idle": 1,
+      "days_idle": 0,
       "labels": [
         "test-suite",
         "backend:X86",
+        "tools:llvm-mca",
         "backend:X86 Scheduler+Cost Models"
       ],
       "notified_stale": false,
@@ -1591,7 +1593,7 @@
       },
       "status": "in_progress",
       "title": "[llvm-mca][x86] Add missing avxneconvert instructions tests",
-      "updated_at": "2026-11-26T16:23:04Z",
+      "updated_at": "2026-11-28T14:35:46Z",
       "url": "https://github.com/llvm/llvm-project/issues/246300"
     },
     "246302": {
@@ -1600,9 +1602,10 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-11-26T10:23:05Z",
-      "days_idle": 1,
+      "days_idle": 0,
       "labels": [
         "backend:X86",
+        "tools:llvm-mca",
         "backend:X86 Scheduler+Cost Models"
       ],
       "notified_stale": false,
@@ -1610,7 +1613,7 @@
       "prs": {},
       "status": "active",
       "title": "[llvm-mca][x86] Add missing avx512fp16 instructions tests",
-      "updated_at": "2026-11-27T14:46:38Z",
+      "updated_at": "2026-11-28T14:35:36Z",
       "url": "https://github.com/llvm/llvm-project/issues/246302"
     },
     "246307": {
@@ -1619,9 +1622,10 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-11-26T10:41:50Z",
-      "days_idle": 1,
+      "days_idle": 0,
       "labels": [
         "backend:X86",
+        "tools:llvm-mca",
         "backend:X86 Scheduler+Cost Models"
       ],
       "notified_stale": false,
@@ -1629,7 +1633,7 @@
       "prs": {},
       "status": "active",
       "title": "[llvm-mca][x86] Add missing sha512 instructions tests",
-      "updated_at": "2026-11-27T14:46:45Z",
+      "updated_at": "2026-11-28T14:35:33Z",
       "url": "https://github.com/llvm/llvm-project/issues/246307"
     },
     "246331": {
@@ -1638,9 +1642,10 @@
       ],
       "comment_claimed_by": "RKSimon",
       "created_at": "2026-11-26T12:23:41Z",
-      "days_idle": 2,
+      "days_idle": 0,
       "labels": [
         "backend:X86",
+        "tools:llvm-mca",
         "backend:X86 Scheduler+Cost Models",
         "optimization:AMDCPU"
       ],
@@ -1651,7 +1656,7 @@
       },
       "status": "in_progress",
       "title": "[llvm-mca][x86] Add missing avx512bmm instructions tests",
-      "updated_at": "2026-11-27T14:46:52Z",
+      "updated_at": "2026-11-28T14:35:26Z",
       "url": "https://github.com/llvm/llvm-project/issues/246331"
     },
     "246658": {
@@ -1664,6 +1669,7 @@
       "labels": [
         "test-suite",
         "backend:X86",
+        "tools:llvm-mca",
         "backend:X86 Scheduler+Cost Models"
       ],
       "notified_stale": false,
@@ -1671,7 +1677,7 @@
       "prs": {},
       "status": "active",
       "title": "[llvm-mca][x86] Add missing MOVDIRI / MOVDIR64B instructions tests",
-      "updated_at": "2026-11-27T16:08:13Z",
+      "updated_at": "2026-11-28T14:35:03Z",
       "url": "https://github.com/llvm/llvm-project/issues/246658"
     },
     "246669": {
@@ -1684,6 +1690,7 @@
       "labels": [
         "test-suite",
         "backend:X86",
+        "tools:llvm-mca",
         "backend:X86 Scheduler+Cost Models"
       ],
       "notified_stale": false,
@@ -1693,9 +1700,9 @@
       },
       "status": "in_progress",
       "title": "[llvm-mca][x86] Add missing RDPRU / PCONFIG / WBNOINVD instructions tests",
-      "updated_at": "2026-11-27T15:48:27Z",
+      "updated_at": "2026-11-28T14:34:54Z",
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-28 13:39 UTC"
+  "last_scan": "2026-11-28 14:50 UTC"
 }
