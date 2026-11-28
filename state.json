@@ -1259,7 +1259,7 @@
       "prs": {},
       "status": "active",
       "title": "[AMDGPU][GlobalISel] Unmerge of an sgpr->vgpr copy of a 64-bit constant is not split into 32-bit constants",
-      "updated_at": "2026-11-27T19:12:19Z",
+      "updated_at": "2026-11-28T06:02:51Z",
       "url": "https://github.com/llvm/llvm-project/issues/236447"
     },
     "236448": {
@@ -1697,5 +1697,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-28 05:58 UTC"
+  "last_scan": "2026-11-28 07:12 UTC"
 }
