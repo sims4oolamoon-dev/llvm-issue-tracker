@@ -376,7 +376,7 @@
       "assignees": [],
       "comment_claimed_by": "anuragGupta08",
       "created_at": "2026-04-14T07:12:47Z",
-      "days_idle": 87,
+      "days_idle": 88,
       "labels": [
         "confirmed",
         "crash-on-valid",
@@ -1056,7 +1056,7 @@
       ],
       "comment_claimed_by": "leogarci42",
       "created_at": "2026-10-27T15:50:48Z",
-      "days_idle": 26,
+      "days_idle": 27,
       "labels": [
         "libc"
       ],
@@ -1450,7 +1450,7 @@
       "assignees": [],
       "comment_claimed_by": "Wet-nat",
       "created_at": "2026-11-11T20:59:48Z",
-      "days_idle": 1,
+      "days_idle": 2,
       "labels": [
         "backend:AMDGPU",
         "ClangIR"
@@ -1697,5 +1697,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-28 07:12 UTC"
+  "last_scan": "2026-11-28 08:30 UTC"
 }
