@@ -6,7 +6,7 @@
       ],
       "comment_claimed_by": "kevinlim17",
       "created_at": "2026-01-01T14:43:20Z",
-      "days_idle": 124,
+      "days_idle": 125,
       "labels": [
         "llvm:instcombine"
       ],
@@ -677,7 +677,7 @@
       "assignees": [],
       "comment_claimed_by": "VachanVY",
       "created_at": "2026-07-24T11:38:53Z",
-      "days_idle": 40,
+      "days_idle": 41,
       "labels": [
         "clang:frontend",
         "clang:diagnostics"
@@ -861,7 +861,7 @@
       ],
       "comment_claimed_by": "Mubaris2",
       "created_at": "2026-09-15T11:55:40Z",
-      "days_idle": 59,
+      "days_idle": 60,
       "labels": [
         "libc",
         "bazel"
@@ -1697,5 +1697,5 @@
       "url": "https://github.com/llvm/llvm-project/issues/246669"
     }
   },
-  "last_scan": "2026-11-28 11:24 UTC"
+  "last_scan": "2026-11-28 12:24 UTC"
 }
